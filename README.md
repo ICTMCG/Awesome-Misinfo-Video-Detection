@@ -57,7 +57,7 @@ This is a paper list (working in progress) about **Misinformation Video Detectio
 This section contains the pilot works that detect misinformation video at signal level, i.e., detect with the clues of editing traces or generating traces.
 1.  **[MS-2022] Fake COVID-19 videos detector based on frames and audio watermarking**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/watermarking-D8D0E1)
 
-   *Nesrine Tarhouni ,Salma Masmoudi, Maha Charfeddine, Chokri Ben Amar*.  [[pdf](https://link.springer.com/article/10.1007/s00530-022-01006-5)]
+    *Nesrine Tarhouni ,Salma Masmoudi, Maha Charfeddine, Chokri Ben Amar*.  [[pdf](https://link.springer.com/article/10.1007/s00530-022-01006-5)]
 
 2. **[TIFS-2016] ESPRIT-Hilbert-based audio tampering detection with SVM classifier for forensic analysis via electrical network frequency** . ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
 
