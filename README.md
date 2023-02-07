@@ -1,4 +1,4 @@
-# Awesome-Video-Misinfo-Detection
+# Awesome-Misinfo-Video-Detection
 
 ## Contents
 
