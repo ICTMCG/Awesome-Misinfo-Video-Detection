@@ -8,6 +8,7 @@
     - [Keywords Convention](#keywords-convention)
   - [Papers](#papers)
     - [Related Survey](#related-survey)
+    - [Analysis](#analysis)
     - [Detection at Signal Level](#detection-at-signal-level)
     - [Detection at Semantic and Intent Level](#detection-at-semantic-and-intent-level)
     - [Related Areas](#related-areas)
@@ -51,6 +52,27 @@ This is a paper list (working in progress) about **Misinformation Video Detectio
 6. **Fake news detection on social media: A data mining perspective**. ![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
 
    *Kai Shu,Amy Sliva,Suhang Wang,Jiliang Tang,Huan Liu*.  ACM SIGKDD Explorations Newsletter,Volume 19,Issue 1,June 2017, pp 22–36. [[pdf](https://arxiv.org/pdf/1708.01967)]
+
+### Analysis
+
+This section contains the pilot works that analyze misinformation video on online platform, including the impact of video modality and the propagation feature on recommendation-dominated plaforms.
+1. **[PACMHCI-2020] Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube**. 
+
+   *Eslam Hussein,  Prerna Juneja, Tanushree Mitra*. [[pdf](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)]
+
+2. **[PNAS-2021] The (minimal) persuasive advantage of political video over text**.
+
+   *Chloe Wittenberg, Ben M. Tappin, Adam J. Berinsky, David G. Rand*. [[pdf](https://www.pnas.org/doi/full/10.1073/pnas.2114388118)]
+
+3. **[JCMC-2021] Seeing is believing: Is video modality more powerful in spreading fake news via online messaging apps?** 
+
+   *S. Shyam Sundar, Maria D. Molina , Eugene Cho*. [[pdf](https://academic.oup.com/jcmc/article-pdf/26/6/301/41139661/zmab010.pdf)]
+4. **[TORS-2022] Auditing YouTube's Recommendation Algorithm for Misinformation Filter Bubbles**.
+
+   *Ivan Srba, Robert Moro, Matus Tomlein, Branislav Pecher, Jakub Simko, Elena Stefancova, Michal Kompan, Andrea Hrckova, Juraj Podrouzek, Adrian Gavornik, Maria Bielikova*. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3568392)]
+5. **[IJCAI-2022] Black-box Audit of YouTube's Video Recommendation: Investigation of Misinformation Filter Bubble Dynamics (Extended Abstract)**.
+
+   *Matus Tomlein, Branislav Pecher, Jakub Simko, Ivan Srba, Robert Moro, Elena Stefancova, Michal Kompan, Andrea Hrckova, Juraj Podrouzek, Maria Bielikova*. [[pdf](https://www.ijcai.org/proceedings/2022/0749.pdf)]
 
 ### Detection at Signal Level
 
@@ -213,7 +235,18 @@ This section contains the pilot works that related to critical open issues and f
 ## Resources
 
 ### Datasets
-1. **FVC** [[paper](https://drive.google.com/file/d/1OfGx0aBHeVK3TmAOP7Wi6APZZlgocmkG/view)] [[dataset](https://mklab.iti.gr/results/fake-video-corpus/)] 
+| Name                 | Paper                                                        | Access                                        | Source Platform     | Language|
+| -------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------- |---------|
+|  **FVC**             | [A corpus of debunked and verified user-generated videos](https://drive.google.com/file/d/1OfGx0aBHeVK3TmAOP7Wi6APZZlgocmkG/view)|[link](https://mklab.iti.gr/results/fake-video-corpus/)|YouTube,Twitter,FaceBook| English,French, Russian,German,Arabic|
+|**YouTubeAudit**|[Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)|[link](https://social-comp.github.io/YouTubeAudit-data/)|YouTube|English(mainly)|
+|**VAVD**|[Misleading Metadata Detection on YouTube](https://arxiv.org/pdf/1901.08759.pdf)| |YouTube|English|
+|**MYVC**|[Using Topic Modeling and Adversarial Neural Networks for Fake News Video Detection](https://dl.acm.org/doi/abs/10.1145/3459637.3482212)| |YouTube|English|
+|**YouTube-Cancer**|[Towards Automatic Detection of Misinformation in Online Medical Videos](https://arxiv.org/pdf/1909.01543)| |YouTube|English|
+|**YouTube-Covid**|[NLP-based Feature Extraction for the Detection of COVID-19 Misinformation Videos on YouTube](https://aclanthology.org/2020.nlpcovid19-acl.17.pdf)| |YouTube|English|
+|**TikTok-Covid**|[A Multimodal Misinformation Detector for COVID-19 Short Videos on TikTok](https://ieeexplore.ieee.org/abstract/document/9671928/)| |TikTok|English|
+|**Bilibili-Health**|[A CNN-based misleading video detection model](https://www.nature.com/articles/s41598-022-10117-y)| |Bilibili|Chinese|
+|**FakeSV**|[[FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms](https://arxiv.org/pdf/2211.10973.pdf)]|[link](https://github.com/ICTMCG/FakeSV)|Douyin,Kuaishou|Chinese|
+<!-- 1. **FVC** [[paper](https://drive.google.com/file/d/1OfGx0aBHeVK3TmAOP7Wi6APZZlgocmkG/view)] [[dataset](https://mklab.iti.gr/results/fake-video-corpus/)] 
 2. **YouTubeAudit** [[paper](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)] [[dataset](https://social-comp.github.io/YouTubeAudit-data/)]
 3. **FakeSV** [[paper](https://arxiv.org/pdf/2211.10973.pdf)] [[dataset](https://github.com/ICTMCG/FakeSV)]
 4. **VAVD** [[paper](https://arxiv.org/pdf/1901.08759.pdf)]
@@ -221,7 +254,7 @@ This section contains the pilot works that related to critical open issues and f
 6. **YouTube-Cancer** [[paper](https://arxiv.org/pdf/1909.01543)]
 7. **YouTube-Covid** [[paper](https://aclanthology.org/2020.nlpcovid19-acl.17.pdf)]
 7. **TikTok-Covid** [[paper](https://ieeexplore.ieee.org/abstract/document/9671928/)]
-8. **Bilibili-Health** [[paper](https://www.nature.com/articles/s41598-022-10117-y)]
+8. **Bilibili-Health** [[paper](https://www.nature.com/articles/s41598-022-10117-y)] -->
 ### Tools
 DeepFake Detector : [WeVerify Project](https://weverify.eu/tools/deepfake-detector/) ; [Sensity](https://sensity.ai/deepfakes-detection/)
 
