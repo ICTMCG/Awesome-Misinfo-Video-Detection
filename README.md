@@ -16,6 +16,7 @@
   - [Resources](#resources)
     - [Datasets](#datasets)
     - [Tools](#tools)
+  - [Citation](#citation)
 
 
 ## Introduction
@@ -238,14 +239,14 @@ This section contains the pilot works that related to critical open issues and f
 | Name                 | Paper                                                        | Access                                        | Source Platform     | Language|
 | -------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------- |---------|
 |  **FVC**             | [A corpus of debunked and verified user-generated videos](https://drive.google.com/file/d/1OfGx0aBHeVK3TmAOP7Wi6APZZlgocmkG/view)|[link](https://mklab.iti.gr/results/fake-video-corpus/)|YouTube,Twitter,FaceBook| English,French, Russian,German,Arabic|
-|**YouTubeAudit**|[Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)|[link](https://social-comp.github.io/YouTubeAudit-data/)|YouTube|English(mainly)|
+|**YouTubeAudit**|[Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)|[link](https://social-comp.github.io/YouTubeAudit-data/)|YouTube|English (mainly)|
 |**VAVD**|[Misleading Metadata Detection on YouTube](https://arxiv.org/pdf/1901.08759.pdf)| |YouTube|English|
 |**MYVC**|[Using Topic Modeling and Adversarial Neural Networks for Fake News Video Detection](https://dl.acm.org/doi/abs/10.1145/3459637.3482212)| |YouTube|English|
 |**YouTube-Cancer**|[Towards Automatic Detection of Misinformation in Online Medical Videos](https://arxiv.org/pdf/1909.01543)| |YouTube|English|
 |**YouTube-Covid**|[NLP-based Feature Extraction for the Detection of COVID-19 Misinformation Videos on YouTube](https://aclanthology.org/2020.nlpcovid19-acl.17.pdf)| |YouTube|English|
 |**TikTok-Covid**|[A Multimodal Misinformation Detector for COVID-19 Short Videos on TikTok](https://ieeexplore.ieee.org/abstract/document/9671928/)| |TikTok|English|
 |**Bilibili-Health**|[A CNN-based misleading video detection model](https://www.nature.com/articles/s41598-022-10117-y)| |Bilibili|Chinese|
-|**FakeSV**|[[FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms](https://arxiv.org/pdf/2211.10973.pdf)]|[link](https://github.com/ICTMCG/FakeSV)|Douyin,Kuaishou|Chinese|
+|**FakeSV**|[FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms](https://arxiv.org/pdf/2211.10973.pdf)|[link](https://github.com/ICTMCG/FakeSV)|Douyin,Kuaishou|Chinese|
 <!-- 1. **FVC** [[paper](https://drive.google.com/file/d/1OfGx0aBHeVK3TmAOP7Wi6APZZlgocmkG/view)] [[dataset](https://mklab.iti.gr/results/fake-video-corpus/)] 
 2. **YouTubeAudit** [[paper](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)] [[dataset](https://social-comp.github.io/YouTubeAudit-data/)]
 3. **FakeSV** [[paper](https://arxiv.org/pdf/2211.10973.pdf)] [[dataset](https://github.com/ICTMCG/FakeSV)]
@@ -261,3 +262,14 @@ DeepFake Detector : [WeVerify Project](https://weverify.eu/tools/deepfake-detect
 Reverse Image Search : [Google](https://images.google.com/) ; [Baidu](https://image.baidu.com/) ; [Bing](https://www.bing.com/visualsearch) ; [Yandex](https://yandex.com/)
 
 Video Verification Plugin : [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/)
+
+### Citation
+This curated list of works on misinformation video detection is based on our [survey](https://arxiv.org/pdf/2302.03242), if you find it helpful, please cite as follows:
+```
+@article{mvdsurvey,
+  title={Online Misinformation Video Detection: A Survey},
+  author={Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi, Danding Wang and Jintao Li},
+  journal={arXiv preprint arXiv:2302.03242},
+  year={2023}
+}
+```
