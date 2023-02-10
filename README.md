@@ -264,7 +264,7 @@ Reverse Image Search : [Google](https://images.google.com/) ; [Baidu](https://im
 Video Verification Plugin : [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/)
 
 ### Citation
-This curated list of works on misinformation video detection is based on our [survey](https://arxiv.org/pdf/2302.03242), if you find it helpful, please cite as follows:
+This curated list of works on misinformation video detection is based on our [survey](https://arxiv.org/pdf/2302.03242). If you find it helpful, please cite as follows:
 ```
 @article{mvdsurvey,
   title={Online Misinformation Video Detection: A Survey},
