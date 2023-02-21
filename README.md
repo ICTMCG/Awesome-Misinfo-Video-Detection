@@ -78,30 +78,34 @@ This section contains the pilot works that analyze misinformation video on onlin
 ### Detection at Signal Level
 
 This section contains the pilot works that detect misinformation video at signal level, i.e., detect with the clues of editing traces or generating traces.
-1.  **[MS-2022] Fake COVID-19 videos detector based on frames and audio watermarking**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/watermarking-D8D0E1)
+1.  **[MS-2023] Fake COVID-19 videos detector based on frames and audio watermarking**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/watermarking-D8D0E1)
 
     *Nesrine Tarhouni ,Salma Masmoudi, Maha Charfeddine, Chokri Ben Amar*.  [[pdf](https://link.springer.com/article/10.1007/s00530-022-01006-5)]
 
-2. **[TIFS-2016] ESPRIT-Hilbert-based audio tampering detection with SVM classifier for forensic analysis via electrical network frequency** . ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
+2. **[arXiv-2022] VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/vidio-D8D0E1)
+
+   *Tai D. Nguyen, Shengbang Fang, Matthew C. Stamm*. [[pdf](https://arxiv.org/pdf/2211.15775.pdf)]
+
+3. **[TIFS-2016] ESPRIT-Hilbert-based audio tampering detection with SVM classifier for forensic analysis via electrical network frequency** . ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
 
    *Reis, Paulo Max Gil Innocencio , da Costa, Joao Paulo Carvalho Lustosa , Miranda, Ricardo Kehrle , Del Galdo, Giovanni*. [[pdf](https://ieeexplore.ieee.org/abstract/document/7775065/)]
 
-3. **[CSUR-2021] The creation and detection of deepfakes: A survey**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+4. **[CSUR-2021] The creation and detection of deepfakes: A survey**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
 
    *Yisroel Mirsky, Wenke Lee*. [[pdf](https://arxiv.org/pdf/2004.11138)]
-4. **[FCST-2023] Overview of Facial Deepfake Video Detection Methods**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+5. **[FCST-2023] Overview of Facial Deepfake Video Detection Methods**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
    
    *Zhang lu, Lu Tianliang, Du Yanhui.* [[pdf](http://fcst.ceaj.org/EN/article/downloadArticleFile.do?attachType=PDF&id=3208)]
-5. **[DDAM-2022] Lessons Learned from ASVSpoof and Remaining Challenges**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
+6. **[DDAM-2022] Lessons Learned from ASVSpoof and Remaining Challenges**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
 
    *Junichi Yamagishi*. [[pdf](https://dl.acm.org/doi/abs/10.1145/3552466.3554359)]
-6. **[ICASSP-2022] Fake audio detection based on unsupervised pretraining models**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
+7. **[ICASSP-2022] Fake audio detection based on unsupervised pretraining models**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
 
    *Zhiqiang Lv, Shanshan Zhang,Kai Tang, Pengfei Hu*.  [[pdf](https://ieeexplore.ieee.org/abstract/document/9747605/)]
-7. **[ICCV-2021] Joint audio-visual deepfake detection**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audiovisual-D8D0E1)
+8. **[ICCV-2021] Joint audio-visual deepfake detection**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audiovisual-D8D0E1)
 
    *Yipin Zhou, Ser-Nam Lim*.  [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)]
-8. **[TCSVT-2021] Detecting compressed deepfake videos in social networks using frame-temporality two-stream convolutional network**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/compressed_video-D8D0E1)
+9. **[TCSVT-2021] Detecting compressed deepfake videos in social networks using frame-temporality two-stream convolutional network**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/compressed_video-D8D0E1)
 
    *Juan Hu ,XinLiao ,WeiWang, ZhengQin*.  [[pdf](https://ieeexplore.ieee.org/abstract/document/9408664)]
    - The work propose a two-stream method by analyzing the frame-level and temporality-level of compressed Deepfake videos. The frame-level stream can prune the redundant connections to prevent the invalid connections from affecting the final prediction.  The temporality-level stream is utilized to capture temporal features to detect the temporal consistency.
@@ -178,7 +182,13 @@ This section contains the pilot works that utilize multimodal features to detect
     
     *Peng Qi, Yuyan Bu, Juan Cao, Wei Ji, Ruihao Shui,Junbin Xiao, Danding Wang, Tat-Seng Chua*.  [[pdf](https://arxiv.org/pdf/2211.10973.pdf)]
 
-14. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
+14. **[arXiv-2023] COVID-VTS: Fact Extraction and Verification on Short Video Platforms**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1)
+   
+    *Fuxiao Liu, Yaser Yacoob, Abhinav Shrivastava*. [[pdf](https://arxiv.org/pdf/2302.07919.pdf)]
+    - This work introduce a new benchmark, COVID-VTS, for fact-checking multi-modal information, as well as propose
+ TwtrDetective, an effective model incorporating cross-media consistency checking to detect token-level malicious tampering in different modalities, and generate explanations.
+
+15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
 
