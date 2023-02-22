@@ -177,20 +177,22 @@ This section contains the pilot works that utilize multimodal features to detect
 12. **[MMSP Workshop-2022] Multimodal Semantic Mismatch Detection in Social Media Posts**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/crossmodal_correlation-D8D0E1)
     
     *Kehan Wang, Seth Z. Zhao, David Chan, Avideh Zakhor, John Canny*.  [[pdf](http://www-video.eecs.berkeley.edu/papers/kwang-2/MMSP-Final-2022186318.pdf)]
+    - This work uses language, video and audio models to extract dense features from each modality, and explore transformer architecture together with contrastive learning methods.
 
 13. **[AAAI-2023] FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms** ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1) ![](https://img.shields.io/badge/social_context-D8D0E1)
     
     *Peng Qi, Yuyan Bu, Juan Cao, Wei Ji, Ruihao Shui,Junbin Xiao, Danding Wang, Tat-Seng Chua*.  [[pdf](https://arxiv.org/pdf/2211.10973.pdf)]
+    - This paper proposes the largest Chinese short video dataset about fake news named FakeSV and provides a new multimodal baseline method SV-FEND.
 
 14. **[arXiv-2023] COVID-VTS: Fact Extraction and Verification on Short Video Platforms**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1)
    
     *Fuxiao Liu, Yaser Yacoob, Abhinav Shrivastava*. [[pdf](https://arxiv.org/pdf/2302.07919.pdf)]
-    - This work introduce a new benchmark, COVID-VTS, for fact-checking multi-modal information, as well as propose
- TwtrDetective, an effective model incorporating cross-media consistency checking to detect token-level malicious tampering in different modalities, and generate explanations.
+    - This work introduces a new benchmark, COVIDs-VTS, for fact-checking multi-modal information, as well as proposes TwtrDetective, an effective model incorporating cross-media consistency checking to detect token-level malicious tampering in different modalities, and generate explanations.
 
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
+    - This paper proposes a three-step method to detect video-based misinformation. First, this method detects deepfakes first and then applies semantic analysis to detect shifts in the meaning and intent of the associated metadata of both videos. The last step entails a sentiment comparison to detect shifts in emotion.
 
 ### Related Areas
 
@@ -278,7 +280,7 @@ This curated list of works on misinformation video detection is based on our [su
 ```
 @article{mvdsurvey,
   title={Online Misinformation Video Detection: A Survey},
-  author={Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi, Danding Wang and Jintao Li},
+  author={Bu, Yuyan and Sheng, Qiang and Cao, Juan and Qi, Peng and Wang, Danding and Li, Jintao},
   journal={arXiv preprint arXiv:2302.03242},
   year={2023}
 }
