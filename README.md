@@ -81,6 +81,7 @@ This section contains the pilot works that detect misinformation video at signal
 1.  **[MS-2023] Fake COVID-19 videos detector based on frames and audio watermarking**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/watermarking-D8D0E1)
 
     *Nesrine Tarhouni ,Salma Masmoudi, Maha Charfeddine, Chokri Ben Amar*.  [[pdf](https://link.springer.com/article/10.1007/s00530-022-01006-5)]
+    - This paper presents a fake video detector based on combining audio and frames watermarking which makes possible the detection of modifications in the two video channels and assures a fast detection of fake video.
 
 2. **[arXiv-2022] VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/vidio-D8D0E1)
 
@@ -105,10 +106,16 @@ This section contains the pilot works that detect misinformation video at signal
 8. **[ICCV-2021] Joint audio-visual deepfake detection**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audiovisual-D8D0E1)
 
    *Yipin Zhou, Ser-Nam Lim*.  [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)]
+   - This work proposes a novel visual / auditory deepfake joint detection task and show that exploiting the intrinsic synchronization between the visual and auditory modalities could benefit deepfake detection.
 9. **[TCSVT-2021] Detecting compressed deepfake videos in social networks using frame-temporality two-stream convolutional network**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/compressed_video-D8D0E1)
 
    *Juan Hu ,XinLiao ,WeiWang, ZhengQin*.  [[pdf](https://ieeexplore.ieee.org/abstract/document/9408664)]
    - The work propose a two-stream method by analyzing the frame-level and temporality-level of compressed Deepfake videos. The frame-level stream can prune the redundant connections to prevent the invalid connections from affecting the final prediction.  The temporality-level stream is utilized to capture temporal features to detect the temporal consistency.
+
+10. **[arXiv-2023] Anti-Compression Contrastive Facial Forgery Detection**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/compressed_video-D8D0E1)
+
+    *Jiajun Huang, Xinqi Zhu, Chengbin Du, Siqi Ma, Surya Nepal, Chang Xu*. [[pdf](https://arxiv.org/pdf/2302.06183.pdf)]
+    - The authors propose a novel anti-compression forgery detection framework by maintaining closer relations within data under different compression levels.
 
 
 ### Detection at Semantic and Intent Level
