@@ -60,20 +60,25 @@ This section contains the pilot works that analyze misinformation video on onlin
 1. **[PACMHCI-2020] Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube**. 
 
    *Eslam Hussein,  Prerna Juneja, Tanushree Mitra*. [[pdf](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)]
+   - This audit experiments investigate whether personalization (based on age, gender, geolocation, or watch history) contributes to amplifying misinformation.
 
 2. **[PNAS-2021] The (minimal) persuasive advantage of political video over text**.
 
    *Chloe Wittenberg, Ben M. Tappin, Adam J. Berinsky, David G. Rand*. [[pdf](https://www.pnas.org/doi/full/10.1073/pnas.2114388118)]
+   - This paper tests the assumption that video is more compelling than text.
 
 3. **[JCMC-2021] Seeing is believing: Is video modality more powerful in spreading fake news via online messaging apps?** 
 
    *S. Shyam Sundar, Maria D. Molina , Eugene Cho*. [[pdf](https://academic.oup.com/jcmc/article-pdf/26/6/301/41139661/zmab010.pdf)]
+   -  This works finds that video is processed more superficially, and therefore users believe in it more readily and share it with others.
 4. **[TORS-2022] Auditing YouTube's Recommendation Algorithm for Misinformation Filter Bubbles**.
 
    *Ivan Srba, Robert Moro, Matus Tomlein, Branislav Pecher, Jakub Simko, Elena Stefancova, Michal Kompan, Andrea Hrckova, Juraj Podrouzek, Adrian Gavornik, Maria Bielikova*. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3568392)]
+   - This paper presents results of an auditing study performed over YouTube aimed at investigating how fast a user can get into a misinformation filter bubble, but also what it takes to “burst the bubble”.
 5. **[IJCAI-2022] Black-box Audit of YouTube's Video Recommendation: Investigation of Misinformation Filter Bubble Dynamics (Extended Abstract)**.
 
    *Matus Tomlein, Branislav Pecher, Jakub Simko, Ivan Srba, Robert Moro, Elena Stefancova, Michal Kompan, Andrea Hrckova, Juraj Podrouzek, Maria Bielikova*. [[pdf](https://www.ijcai.org/proceedings/2022/0749.pdf)]
+   - This paper describes a black-box sockpuppeting audit which was carried out to investigate the creation and bursting dynamics of misinformation flter bubbles on YouTube.
 
 ### Detection at Signal Level
 
@@ -215,6 +220,7 @@ This section contains the pilot works that discuss areas related to misinformati
 2. **[CICLing-2018] A deep learning approach for multimodal deception detection**. ![](https://img.shields.io/badge/deception_detection-EAD8D9)
 
    *Gangeshwar Krishnamurthy, Navonil Majumder, Soujanya Poria, Erik Cambria*.  [[pdf](https://arxiv.org/abs/1803.00344)]
+   <!-- - This paper proposes a simple yet tough to beat multi-modal neural model for deception detection by combining features from different modalities such as video, audio, and text along with Micro-Expression features. -->
 
 3. **[AAAI-2018] Deception Detection in Videos**. ![](https://img.shields.io/badge/deception_detection-EAD8D9)
 
@@ -223,7 +229,7 @@ This section contains the pilot works that discuss areas related to misinformati
 4. **[Applied Intelligence-2021] A unified approach for detection of Clickbait videos on YouTube using cognitive evidences**. ![](https://img.shields.io/badge/clickbait_detection-EAD8D9)
 
    *Deepika Varshney, Dinesh Kumar Vishwakarma*.  [[pdf](https://link.springer.com/article/10.1007/s10489-020-02057-9)]
-   
+
 5. **[ICPR-2022] VidHarm: A Clip Based Dataset for Harmful Content Detection**. ![](https://img.shields.io/badge/harmful_content_detection-EAD8D9)
 
    *Johan Edstedt, Amanda Berg, Michael Felsberg, Johan Karlsson, Francisca Benavente, Anette Novak, Gustav Grund Pihlgren*. [[pdf](https://arxiv.org/pdf/2106.08323.pdf)]
