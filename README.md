@@ -86,10 +86,12 @@ This section contains the pilot works that detect misinformation video at signal
 2. **[arXiv-2022] VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/vidio-D8D0E1)
 
    *Tai D. Nguyen, Shengbang Fang, Matthew C. Stamm*. [[pdf](https://arxiv.org/pdf/2211.15775.pdf)]
+   - This paper designs VideoFACT to exploit forensic traces’ contextual dependencies upon scene content as well as spatial dependencies and proposes datasets that are composed not only of standard video manipulations but also advanced AI-based content manipilation techniques.
 
 3. **[TIFS-2016] ESPRIT-Hilbert-based audio tampering detection with SVM classifier for forensic analysis via electrical network frequency** . ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
 
    *Reis, Paulo Max Gil Innocencio , da Costa, Joao Paulo Carvalho Lustosa , Miranda, Ricardo Kehrle , Del Galdo, Giovanni*. [[pdf](https://ieeexplore.ieee.org/abstract/document/7775065/)]
+   - In this paper, a new technique to detect adulterations in audio recordings is proposed by exploiting abnormal variations in the electrical network frequency (ENF) signal eventually embedded in a questioned audio recording.
 
 4. **[CSUR-2021] The creation and detection of deepfakes: A survey**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
 
@@ -103,6 +105,7 @@ This section contains the pilot works that detect misinformation video at signal
 7. **[ICASSP-2022] Fake audio detection based on unsupervised pretraining models**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
 
    *Zhiqiang Lv, Shanshan Zhang,Kai Tang, Pengfei Hu*.  [[pdf](https://ieeexplore.ieee.org/abstract/document/9747605/)]
+   - This work presents the authors' systems for the ADD2022 challenge, which is the first audio deep synthesis detection challenge. They explored using unsupervised pretraining models to build fake audio detection systems.
 8. **[ICCV-2021] Joint audio-visual deepfake detection**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audiovisual-D8D0E1)
 
    *Yipin Zhou, Ser-Nam Lim*.  [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)]
@@ -213,10 +216,17 @@ This section contains the pilot works that discuss areas related to misinformati
 
    *Gangeshwar Krishnamurthy, Navonil Majumder, Soujanya Poria, Erik Cambria*.  [[pdf](https://arxiv.org/abs/1803.00344)]
 
-3. **[Applied Intelligence-2021] A unified approach for detection of Clickbait videos on YouTube using cognitive evidences**. ![](https://img.shields.io/badge/clickbait_detection-EAD8D9)
+3. **[AAAI-2018] Deception Detection in Videos**. ![](https://img.shields.io/badge/deception_detection-EAD8D9)
 
-   *Deepika Varshney, Dinesh Kumar Vishwakarma*.  [[pdf](https://link.springer.com/article/10.1007/s10489-020-02057-9)], 
+   *Zhe Wu, Bharat Singh, Larry Davis, V. Subrahmanian*. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/11502/11361)]
 
+4. **[Applied Intelligence-2021] A unified approach for detection of Clickbait videos on YouTube using cognitive evidences**. ![](https://img.shields.io/badge/clickbait_detection-EAD8D9)
+
+   *Deepika Varshney, Dinesh Kumar Vishwakarma*.  [[pdf](https://link.springer.com/article/10.1007/s10489-020-02057-9)]
+   
+5. **[ICPR-2022] VidHarm: A Clip Based Dataset for Harmful Content Detection**. ![](https://img.shields.io/badge/harmful_content_detection-EAD8D9)
+
+   *Johan Edstedt, Amanda Berg, Michael Felsberg, Johan Karlsson, Francisca Benavente, Anette Novak, Gustav Grund Pihlgren*. [[pdf](https://arxiv.org/pdf/2106.08323.pdf)]
 ### Future Directions
 
 This section contains the pilot works that related to critical open issues and future directions for misinformation video detection.
@@ -227,28 +237,39 @@ This section contains the pilot works that related to critical open issues and f
 2. **[SIGIR-2022] Generalizing to the future: Mitigating entity bias in fake news detection**. ![](https://img.shields.io/badge/transferability-EAD8D9) ![](https://img.shields.io/badge/temporal-D8D0E1)
 
    *Yongchun Zhu, Qiang Sheng, Juan Cao, Shuokai Li, Danding Wang, Fuzhen Zhuang*.  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3477495.3531816)]
-3. **[TKDE-2022] Memory-guided multi-view multi-domain fake news detection**. ![](https://img.shields.io/badge/transferability-EAD8D9) ![](https://img.shields.io/badge/multidomain-D8D0E1)
+
+3. **[AAAI-2021] Embracing domain differences in fake news: Cross-domain fake news detection using multi-modal data**. ![](https://img.shields.io/badge/transferability-EAD8D9) ![](https://img.shields.io/badge/multidomain-D8D0E1)
+
+   *Amila Silva, Ling Luo, Shanika Karunasekera, Christopher Leckie*. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16134)]
+
+4. **[CIKM-2021] MDFEND: Multidomain fake news detection**. ![](https://img.shields.io/badge/transferability-EAD8D9) ![](https://img.shields.io/badge/multidomain-D8D0E1)
+
+   *Qiong Nan, Juan Cao, Yongchun Zhu, Yanyan Wang,Jintao Li*. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3459637.3482139)]
+
+5. **[TKDE-2022] Memory-guided multi-view multi-domain fake news detection**. ![](https://img.shields.io/badge/transferability-EAD8D9) ![](https://img.shields.io/badge/multidomain-D8D0E1)
 
    *Yongchun Zhu, Qiang Sheng, Juan Cao, Qiong Nan, Kai Shu, Minghui Wu, Jindong Wang, Fuzhen Zhuang*.  [[pdf](https://arxiv.org/pdf/2206.12808)]
-4. **[IP&M-2022] Characterizing multi-domain false news and underlying user effects on Chinese Weibo**. ![](https://img.shields.io/badge/transferability-EAD8D9) ![](https://img.shields.io/badge/multidomain-D8D0E1)
+6. **[IP&M-2022] Characterizing multi-domain false news and underlying user effects on Chinese Weibo**. ![](https://img.shields.io/badge/transferability-EAD8D9) ![](https://img.shields.io/badge/multidomain-D8D0E1)
 
    *Qiang Sheng, Juan Cao, H. Russell Bernard, Kai Shu,  Jintao Li, Huan Liu*.  [[pdf](https://arxiv.org/pdf/2205.03068)]
-5. **[NAACL-2018] Fever: a large-scale dataset for fact extraction and verification** . ![](https://img.shields.io/badge/explainability-EAD8D9) ![](https://img.shields.io/badge/verification-D8D0E1)
+7. **[NAACL-2018] Fever: a large-scale dataset for fact extraction and verification** . ![](https://img.shields.io/badge/explainability-EAD8D9) ![](https://img.shields.io/badge/verification-D8D0E1)
 
    *James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Arpit Mittal* [[pdf](https://arxiv.org/pdf/1803.05355)]
-6. **[CVPR-2022] Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources**. ![](https://img.shields.io/badge/explainability-EAD8D9) ![](https://img.shields.io/badge/verification-D8D0E1)
+8. **[CVPR-2022] Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources**. ![](https://img.shields.io/badge/explainability-EAD8D9) ![](https://img.shields.io/badge/verification-D8D0E1)
 
    *Sahar Abdelnabi, Rakibul Hasan, Mario Fritz*. [[pdf](http://openaccess.thecvf.com/content/CVPR2022/papers/Abdelnabi_Open-Domain_Content-Based_Multi-Modal_Fact-Checking_of_Out-of-Context_Images_via_Online_Resources_CVPR_2022_paper.pdf)]
-7. **[CVPR-2020] Multi-modal graph neural network for joint reasoning on vision and scene text**. ![](https://img.shields.io/badge/reasoning-EAD8D9)
+9. **[CVPR-2020] Multi-modal graph neural network for joint reasoning on vision and scene text**. ![](https://img.shields.io/badge/reasoning-EAD8D9)
 
    *Difei Gao, Ke Li, Ruiping Wang, Shiguang Shan, Xilin Chen*. [[pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Multi-Modal_Graph_Neural_Network_for_Joint_Reasoning_on_Vision_and_CVPR_2020_paper.pdf)]
-8. **[NIPS-2022] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**. ![](https://img.shields.io/badge/reasoning-EAD8D9)
+10. **[NIPS-2022] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**. ![](https://img.shields.io/badge/reasoning-EAD8D9)
 
-   *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou* [[pdf](https://arxiv.org/pdf/2201.11903)]
-9. **[WWW-2022]Veracity-aware and Event-driven Personalized News Recommendation for Fake News Mitigation**. ![](https://img.shields.io/badge/recommendation-EAD8D9) 
+    *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou* [[pdf](https://arxiv.org/pdf/2201.11903)]
 
-   *Shoujin Wang, Xiaofei Xu, Xiuzhen Zhang, Yan Wang, Wenzhuo Song*. [[pdf](https://scholar.archive.org/work/ncxytdfyjbdizmv6c6i7t6p6ye/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3485447.3512263)]
-10. **[AAAI-2020] Weak Supervision for Fake News Detection via Reinforcement Learning**. ![](https://img.shields.io/badge/recommendation-EAD8D9)
+11. **[WWW-2022]Veracity-aware and Event-driven Personalized News Recommendation for Fake News Mitigation**. ![](https://img.shields.io/badge/recommendation-EAD8D9) 
+
+    *Shoujin Wang, Xiaofei Xu, Xiuzhen Zhang, Yan Wang, Wenzhuo Song*. [[pdf](https://scholar.archive.org/work/ncxytdfyjbdizmv6c6i7t6p6ye/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3485447.3512263)]
+
+12. **[AAAI-2020] Weak Supervision for Fake News Detection via Reinforcement Learning**. ![](https://img.shields.io/badge/recommendation-EAD8D9)
 
       *Yaqing Wang, Weifeng Yang, Fenglong Ma, Jin Xu, Bin Zhong, Qiang Deng, Jing Gao*.  [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5389/5245)]
 
