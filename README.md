@@ -34,6 +34,10 @@ This is a paper list (working in progress) about **Misinformation Video Detectio
 ## Papers
 
 ### Related Survey
+1. **The Challenges of Studying Misinformation on Video-Sharing Platforms During Crises and Mass-Convergence Events**. ![](https://img.shields.io/badge/misinformation_video-D8D0E1)
+
+   *Sukrit Venkatagiri, Joseph S. Schafer, Stephen Prochaska*. CHI 2023 Workshop on Building Credibility, Trust, and Safety on VideoSharing Platforms, April 23–28, 2023, Hamburg, Germany.[[pdf](https://arxiv.org/pdf/2303.14309.pdf)]
+
 
 1. **Multi-modal Misinformation Detection: Approaches, Challenges and Opportunities**. ![](https://img.shields.io/badge/multimodal_detection-D8D0E1)
 
@@ -47,6 +51,11 @@ This is a paper list (working in progress) about **Misinformation Video Detectio
 4. **A Survey on Video-Based Fake News Detection Techniques**. ![](https://img.shields.io/badge/video_forgery_detection-D8D0E1)
 
    *Ronak Agrawal, Dilip Kumar Sharma*. 2021 8th International Conference on Computing for Sustainable Global Development (INDIACom). IEEE, 2021.  [[pdf](https://ieeexplore.ieee.org/abstract/document/9441196)]
+
+5. **Fighting Malicious Media Data: A Survey on
+Tampering Detection and Deepfake Detection**. ![](https://img.shields.io/badge/media_forensic-D8D0E1) 
+
+    *Junke Wang, Zhenxin Li, Chao Zhang, Jingjing Chen, Zuxuan Wu, Larry S. Davis, Yu-Gang Jiang*. ArXiv, 2022. [[pdf](https://arxiv.org/pdf/2212.05667.pdf)]
 5. **A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities**. ![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
 
    *Xinyi Zhou, Reza Zafarani*. ACM Computing Surveys (CSUR) 53.5 (2020): 1-40. [[pdf](https://arxiv.org/pdf/1812.00315)]
