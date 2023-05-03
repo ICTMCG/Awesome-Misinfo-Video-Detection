@@ -52,6 +52,10 @@ This is a paper list (working in progress) about **Misinformation Video Detectio
 
    *Ronak Agrawal, Dilip Kumar Sharma*. 2021 8th International Conference on Computing for Sustainable Global Development (INDIACom). IEEE, 2021.  [[pdf](https://ieeexplore.ieee.org/abstract/document/9441196)]
 
+5. **A comprehensive survey on passive techniques for digital video forgery detection**. ![](https://img.shields.io/badge/video_forgery_detection-D8D0E1)
+
+   *Nitin Arvind Shelke, Singara Singh Kasana*. Multimed Tools Appl 80, 6247–6310 (2021) [[pdf](https://link.springer.com/article/10.1007/s11042-020-09974-4)]
+
 5. **Fighting Malicious Media Data: A Survey on
 Tampering Detection and Deepfake Detection**. ![](https://img.shields.io/badge/media_forensic-D8D0E1) 
 
@@ -141,7 +145,7 @@ This section contains the pilot works that utilize multimodal features to detect
 
 1. **[MFSec-2017] Web Video Verification using Contextual Cues**.  ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/social_context-D8D0E1)
 
-   *Olga Papadopoulou, Markos Zampoglou, Symeon Papadopoulos, Yiannis Kompatsiaris*.  [[pdf](https://core.ac.uk/download/pdf/144811239.pdf)]
+   *Olga Papadopoulou, Markos Zampoglou, Symeon Papadopoulos, Yiannis Kompatsiaris*.  [[pdf](https://core.ac.uk/download/pdf/144811239.pdf)] [[repo](https://github.com/MKLab-ITI/contextual-video-verification/tree/master/MFSec_2017)]
 
    - Propose an annotated dataset of real and fake videos(FVC)
    - Use video comment credibility and video metadata features for fake video detection.
@@ -152,18 +156,18 @@ This section contains the pilot works that utilize multimodal features to detect
 
 3. **[ECIR-2019] Misleading Metadata Detection on YouTube**. ![](https://img.shields.io/badge/social_context-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1)
 
-   *Priyank Palod, Ayush Patwari, Sudhanshu Bahety, Saurabh Bagchi, Pawan Goyal*.  [[pdf](https://arxiv.org/pdf/1901.08759.pdf)]
+   *Priyank Palod, Ayush Patwari, Sudhanshu Bahety, Saurabh Bagchi, Pawan Goyal*.  [[pdf](https://arxiv.org/pdf/1901.08759.pdf)] [[repo](https://github.com/ucnet01/UCNet_Implementation)]
    - The work presents VAVD, a new dataset for research on fake videos.
    - Propose UCNet , a deep learning based approach using comments and simple features extracted from title and social context to identify fake videos.
 
 4. **[ACL Workshop-2020] NLP-based Feature Extraction for the Detection of COVID-19 Misinformation Videos on YouTube**. ![](https://img.shields.io/badge/social_context-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1)
 
-   *Juan Carlos Medina Serrano, Orestis Papakyriakopoulos, Simon Hegelich*.  [[pdf](https://aclanthology.org/2020.nlpcovid19-acl.17.pdf)]
+   *Juan Carlos Medina Serrano, Orestis Papakyriakopoulos, Simon Hegelich*.  [[pdf](https://aclanthology.org/2020.nlpcovid19-acl.17.pdf)] [[repo](https://github.com/JuanCarlosCSE/YouTube_misinfo)]
    - Create a multi-label classifier based on transfer-learning that can categorize conspiratorial content; use the percentage of conspiracy comments and the first hundred comments as tf-idf features in the classifier.
 
 5. **[arXiv-2021] Misinformation Detection on YouTube Using Video Captions**. ![](https://img.shields.io/badge/textual-D8D0E1)
 
-   *Raj Jagtap, Abhinav Kumar, Rahul Goel, Shakshi Sharma, Rajesh Sharma, Clint P. George*.  [[pdf](https://arxiv.org/pdf/2107.00941.pdf)] 
+   *Raj Jagtap, Abhinav Kumar, Rahul Goel, Shakshi Sharma, Rajesh Sharma, Clint P. George*.  [[pdf](https://arxiv.org/pdf/2107.00941.pdf)] [[repo](https://github.com/jagtapraj123/YT-Misinformation)]
    -  This work  exploited the YouTube captions to understand the content of the videos using multiple pre-trained word embeddings.
 
 6. **[Scientific Reports-2022] A CNN-based Misleading Video Detection Model**. ![](https://img.shields.io/badge/social_context-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1)
@@ -205,12 +209,12 @@ This section contains the pilot works that utilize multimodal features to detect
 
 13. **[AAAI-2023] FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms** ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1) ![](https://img.shields.io/badge/social_context-D8D0E1)
     
-    *Peng Qi, Yuyan Bu, Juan Cao, Wei Ji, Ruihao Shui,Junbin Xiao, Danding Wang, Tat-Seng Chua*.  [[pdf](https://arxiv.org/pdf/2211.10973.pdf)]
+    *Peng Qi, Yuyan Bu, Juan Cao, Wei Ji, Ruihao Shui,Junbin Xiao, Danding Wang, Tat-Seng Chua*.  [[pdf](https://arxiv.org/pdf/2211.10973.pdf)] [[repo](https://github.com/ICTMCG/FakeSV)]
     - This paper proposes the largest Chinese short video dataset about fake news named FakeSV and provides a new multimodal baseline method SV-FEND.
 
 14. **[arXiv-2023] COVID-VTS: Fact Extraction and Verification on Short Video Platforms**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1)
    
-    *Fuxiao Liu, Yaser Yacoob, Abhinav Shrivastava*. [[pdf](https://arxiv.org/pdf/2302.07919.pdf)]
+    *Fuxiao Liu, Yaser Yacoob, Abhinav Shrivastava*. [[pdf](https://arxiv.org/pdf/2302.07919.pdf)] [[repo](https://github.com/FuxiaoLiu/Twitter-Video-dataset)]
     - This work introduces a new benchmark, COVIDs-VTS, for fact-checking multi-modal information, as well as proposes TwtrDetective, an effective model incorporating cross-media consistency checking to detect token-level malicious tampering in different modalities, and generate explanations.
 
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
