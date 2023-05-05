@@ -101,10 +101,42 @@ This section contains the pilot works that detect misinformation video at signal
     *Nesrine Tarhouni ,Salma Masmoudi, Maha Charfeddine, Chokri Ben Amar*.  [[pdf](https://link.springer.com/article/10.1007/s00530-022-01006-5)]
     - This paper presents a fake video detector based on combining audio and frames watermarking which makes possible the detection of modifications in the two video channels and assures a fast detection of fake video.
 
-2. **[arXiv-2022] VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/vidio-D8D0E1)
+2. **[arXiv-2022] VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
 
    *Tai D. Nguyen, Shengbang Fang, Matthew C. Stamm*. [[pdf](https://arxiv.org/pdf/2211.15775.pdf)]
    - This paper designs VideoFACT to exploit forensic traces’ contextual dependencies upon scene content as well as spatial dependencies and proposes datasets that are composed not only of standard video manipulations but also advanced AI-based content manipilation techniques.
+
+3. **[MMM-2019] Detecting tampered videos with multimedia forensics and deep learning**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+
+   *Markos Zampoglou, Foteini Markatopoulou, Gregoire Mercier, Despoina Touska, Evlampios Apostolidis, Symeon Papadopoulos, Roger Cozien, Ioannis Patras, Vasileios Mezaris, Ioannis Kompatsiaris*. [[pdf](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/55029/Apostolidis%20Detecting%20Tampered%20Videos%202018%20Accepted.pdf?sequence=2)]
+
+4. **[MTA-2017] Malicious inter-frame video tampering detection in MPEG videos using time and spatial domain analysis of quantization effects**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+
+   *Javad Abbasi Aghamaleki, Alireza Behrad*. [[pdf](https://link.springer.com/article/10.1007/s11042-016-4004-z)]
+
+5. **[JFS-2018] Authentication of surveillance videos: detecting frame duplication based on residual frame**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+
+   *Sondos M. Fadl, Qi Han, Qiong Li*. [[pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/1556-4029.13658)]
+
+6. **[CSPA-2017] A comprehensive approach for exposing inter-frame video forgeries**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+
+   *K Sitara, B M Mehtre*. [[pdf](https://ieeexplore.ieee.org/abstract/document/8064927)]
+
+7. **[SCAIE-2018] Detection clone an object movement using an optical flow approach**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+
+   *Omar Ismael Al-Sanjary, Ahmed Abdullah Ahmed, Adam Amril Bin Jaharadak, Musab AM Ali, and Hewa Majeed Zanga*. [[pdf](https://www.researchgate.net/profile/Ahmed-Ahmed-24/publication/326276548_Detection_clone_an_object_movement_using_an_optical_flow_approach/links/5c2c9612458515a4c706a871/Detection-clone-an-object-movement-using-an-optical-flow-approach.pdf)]
+
+8. **[ICIEAM-2016] Implementation of image/video copy-move forgery detection using brute-force matching**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+
+   *Neema Antony, Binet Rose Devassy*. [[pdf](https://ieeexplore.ieee.org/abstract/document/8553953/)]
+
+9. **[NCA-2020] Video tampering localisation using features learned from authentic content**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+
+   *Pamela Johnston, Eyad Elyan, Chrisina Jayne*. [[pdf](https://link.springer.com/article/10.1007/s00521-019-04272-z)]
+
+10. **[AECE-2019] Spatial video forgery detection and localization using texture analysis of consecutive frames**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+
+      *Mubbashar Saddique, Khurshid Asghar, Usama Ijaz Bajwa, Muhammad Hussain,Zulfiqar Habib*. [[pdf](https://www.academia.edu/download/61003489/aece_2019_3_1220191024-40459-1p66trc.pdf)]
 
 3. **[TIFS-2016] ESPRIT-Hilbert-based audio tampering detection with SVM classifier for forensic analysis via electrical network frequency** . ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/audio-D8D0E1)
 
@@ -128,6 +160,11 @@ This section contains the pilot works that detect misinformation video at signal
 
    *Yipin Zhou, Ser-Nam Lim*.  [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf)]
    - This work proposes a novel visual / auditory deepfake joint detection task and show that exploiting the intrinsic synchronization between the visual and auditory modalities could benefit deepfake detection.
+
+9. **[MM-2020] Emotions don't lie: An audio-visual deepfake detection method using affective cues**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/audiovisual-D8D0E1)
+
+   *Trisha Mittal, Uttaran Bhattacharya, Rohan Chandra, Aniket Bera, Dinesh Manocha*. [[pdf](https://arxiv.org/pdf/2003.06711)]
+
 9. **[TCSVT-2021] Detecting compressed deepfake videos in social networks using frame-temporality two-stream convolutional network**. ![](https://img.shields.io/badge/generating_traces-EAD8D9) ![](https://img.shields.io/badge/compressed_video-D8D0E1)
 
    *Juan Hu ,XinLiao ,WeiWang, ZhengQin*.  [[pdf](https://ieeexplore.ieee.org/abstract/document/9408664)]
