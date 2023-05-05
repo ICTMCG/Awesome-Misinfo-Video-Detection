@@ -355,7 +355,7 @@ This section contains the pilot works that related to critical open issues and f
 ### Tools
 DeepFake Detector : [WeVerify Project](https://weverify.eu/tools/deepfake-detector/) ; [Sensity](https://sensity.ai/deepfakes-detection/)
 
-Reverse Image Search : [Google](https://images.google.com/) ; [Baidu](https://image.baidu.com/) ; [Bing](https://www.bing.com/visualsearch) ; [Yandex](https://yandex.com/)
+Reverse Image Search : [Google](https://images.google.com/) ; [Baidu](https://image.baidu.com/) ; [Bing](https://www.bing.com/visualsearch) ; [Yandex](https://yandex.com/) ; [Tineye](https://tineye.com/) ; [ImageRaider](https://infringement.report/api/raider-reverse-image-search/) ; [Duplichecker](https://www.duplichecker.com/)
 
 Video Verification Plugin : [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/)
 
