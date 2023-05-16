@@ -254,10 +254,16 @@ This section contains the pilot works that utilize multimodal features to detect
     *Fuxiao Liu, Yaser Yacoob, Abhinav Shrivastava*. [[pdf](https://arxiv.org/pdf/2302.07919.pdf)] [[repo](https://github.com/FuxiaoLiu/Twitter-Video-dataset)]
     - This work introduces a new benchmark, COVIDs-VTS, for fact-checking multi-modal information, as well as proposes TwtrDetective, an effective model incorporating cross-media consistency checking to detect token-level malicious tampering in different modalities, and generate explanations.
 
+15. **[ChineseCSCW-2022] Video Rumor Classification Based on Multi-modal Theme and Keyframe Fusion**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1) 
+
+    *Jinpeng You, Yanghao Lin, Dazhen Lin, and Donglin Cao*. [[pdf](https://link.springer.com/chapter/10.1007/978-981-99-2356-4_5)]
+    - This work propose a multi-modal fusion model based on theme and keyframe. It can effectively capture the theme and key-frame information of the three modalities in the video, and carry out rumor detection from them.
+
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
     - This paper proposes a three-step method to detect video-based misinformation. First, this method detects deepfakes first and then applies semantic analysis to detect shifts in the meaning and intent of the associated metadata of both videos. The last step entails a sentiment comparison to detect shifts in emotion.
+
 
 ### Related Areas
 
