@@ -261,7 +261,7 @@ This section contains the pilot works that utilize multimodal features to detect
 
 16. **[ACL-2023] Improving Fake News Video Detection by Correlating with Neighbors**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
-    *Peng Qi, Yuyang Zhao, Yufeng Shen,Wei Ji, Juan Cao, and Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2306.05241.pdf)]
+    *Peng Qi, Yuyang Zhao, Yufeng Shen,Wei Ji, Juan Cao, and Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2306.05241.pdf)] [[repo](https://github.com/ICTMCG/NEED)]
     - This work propose the NEED framework, which exploits the neighborhood relationship explicitly and implicitly to enhance the fake news video detection. The authors also formulate a new multimodal inference task and propose a novel model that utilizes the consistency to leverage factual information to rectify false negative predictions.
 
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
