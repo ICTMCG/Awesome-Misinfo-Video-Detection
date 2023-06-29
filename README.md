@@ -264,6 +264,11 @@ This section contains the pilot works that utilize multimodal features to detect
     *Peng Qi, Yuyang Zhao, Yufeng Shen,Wei Ji, Juan Cao, and Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2306.05241.pdf)] [[repo](https://github.com/ICTMCG/NEED)]
     - This work propose the NEED framework, which exploits the neighborhood relationship explicitly and implicitly to enhance the fake news video detection. The authors also formulate a new multimodal inference task and propose a novel model that utilizes the consistency to leverage factual information to rectify false negative predictions.
 
+17. **[arXiv-2023] Multimodal Short Video Rumor Detection System Based on Contrastive Learning**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+    
+    *Yuxing Yang, Junhao Zhao, Siyi Wang, Xiangyu Min, Pengchao Wang, and Haizhou Wang*. [[pdf](https://arxiv.org/pdf/2304.08401.pdf)] 
+    - This paper proposes a framework for detecting and classifying short video rumors based on multimodal feature fusion: the authors use the TSN (Temporal Segment Networks) to extract video visual features; then OCR and ASR technologies are exploited to extract text features; BERT model is utilized to fuse text and video visual features. Contrastive learning is applied for the final prediction.
+
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
