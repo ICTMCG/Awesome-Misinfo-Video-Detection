@@ -381,7 +381,7 @@ This curated list of works on misinformation video detection is based on our [su
 @inproceedings{mvdsurvey, 
 title={Combating Online Misinformation Videos: Characterization, Detection, and Future Directions}, 
 author={Bu, Yuyan and Sheng, Qiang and Cao, Juan and Qi, Peng and Wang, Danding and Li, Jintao}, 
-booktitle={Proceedings of the 31th ACM International Conference on Multimedia}, 
+booktitle={Proceedings of the 31st ACM International Conference on Multimedia}, 
 year={2023}, 
 publisher = {Association for Computing Machinery},
 } 
