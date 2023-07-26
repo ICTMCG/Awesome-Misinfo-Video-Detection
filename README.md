@@ -378,10 +378,11 @@ Video Verification Plugin : [InVID Verification Plugin](https://www.invid-projec
 <!-- ### Citation
 This curated list of works on misinformation video detection is based on our [survey](https://arxiv.org/pdf/2302.03242). If you find it helpful, please cite as follows:
 ```
-@article{mvdsurvey,
-  title={Online Misinformation Video Detection: A Survey},
-  author={Bu, Yuyan and Sheng, Qiang and Cao, Juan and Qi, Peng and Wang, Danding and Li, Jintao},
-  journal={arXiv preprint arXiv:2302.03242},
-  year={2023}
-}
+@inproceedings{mvdsurvey, 
+title={Combating Online Misinformation Videos: Characterization, Detection, and Future Directions}, 
+author={Bu, Yuyan and Sheng, Qiang and Cao, Juan and Qi, Peng and Wang, Danding and Li, Jintao}, 
+booktitle={Proceedings of the 31th ACM International Conference on Multimedia}, 
+year={2023}, 
+publisher = {Association for Computing Machinery},
+} 
 ``` -->
