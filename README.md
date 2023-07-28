@@ -269,6 +269,11 @@ This section contains the pilot works that utilize multimodal features to detect
     *Yuxing Yang, Junhao Zhao, Siyi Wang, Xiangyu Min, Pengchao Wang, and Haizhou Wang*. [[pdf](https://arxiv.org/pdf/2304.08401.pdf)] 
     - This paper proposes a framework for detecting and classifying short video rumors based on multimodal feature fusion: the authors use the TSN (Temporal Segment Networks) to extract video visual features; then OCR and ASR technologies are exploited to extract text features; BERT model is utilized to fuse text and video visual features. Contrastive learning is applied for the final prediction.
 
+18. **[arXiv-2023] Identifying Misinformation on YouTube through Transcript Contextual Analysis with Transformer Models**. ![](https://img.shields.io/badge/textual-D8D0E1) 
+    
+    *Christos Christodoulou, Nikos Salamanos, Pantelitsa Leonidou, Michail Papadakis, Michael Sirivianos*. [[pdf](https://arxiv.org/pdf/2307.12155.pdf)] [[repo](https://github.com/christoschr97/misinf-detection-llms)] 
+    - This paper converts the conventional vide classification task into a text classification task by leveraging the textual content derived from the video transcripts and presents a methodology for detecting misinformation on YouTube using different fine-tuned transformer models and few-shot learning.
+
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
