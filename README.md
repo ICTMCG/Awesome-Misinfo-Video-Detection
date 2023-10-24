@@ -249,7 +249,7 @@ This section contains the pilot works that utilize multimodal features to detect
     *Peng Qi, Yuyan Bu, Juan Cao, Wei Ji, Ruihao Shui,Junbin Xiao, Danding Wang, Tat-Seng Chua*.  [[pdf](https://arxiv.org/pdf/2211.10973.pdf)] [[repo](https://github.com/ICTMCG/FakeSV)]
     - This paper proposes the largest Chinese short video dataset about fake news named FakeSV and provides a new multimodal baseline method SV-FEND.
 
-14. **[arXiv-2023] COVID-VTS: Fact Extraction and Verification on Short Video Platforms**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1)
+14. **[EACL-2023] COVID-VTS: Fact Extraction and Verification on Short Video Platforms**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1)
    
     *Fuxiao Liu, Yaser Yacoob, Abhinav Shrivastava*. [[pdf](https://arxiv.org/pdf/2302.07919.pdf)] [[repo](https://github.com/FuxiaoLiu/Twitter-Video-dataset)]
     - This work introduces a new benchmark, COVIDs-VTS, for fact-checking multi-modal information, as well as proposes TwtrDetective, an effective model incorporating cross-media consistency checking to detect token-level malicious tampering in different modalities, and generate explanations.
@@ -273,6 +273,12 @@ This section contains the pilot works that utilize multimodal features to detect
     
     *Christos Christodoulou, Nikos Salamanos, Pantelitsa Leonidou, Michail Papadakis, Michael Sirivianos*. [[pdf](https://arxiv.org/pdf/2307.12155.pdf)] [[repo](https://github.com/christoschr97/misinf-detection-llms)] 
     - This paper converts the conventional vide classification task into a text classification task by leveraging the textual content derived from the video transcripts and presents a methodology for detecting misinformation on YouTube using different fine-tuned transformer models and few-shot learning.
+
+19. **[EMNLP-2023]Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines**. ![](https://img.shields.io/badge/textual-D8D0E1) 
+
+    *Yoo Yeon Sung, Jordan Boyd-Graber, Naeemul Hassan*. [[PDF](https://arxiv.org/pdf/2310.13859.pdf)] [[repo](https://github.com/yysung/VMH/tree/master)]
+    - This paper presents VMH, a dataset of misleading headlines from social media videos and analyze multimodal baselines for detecting misleading headlines.
+
 
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
