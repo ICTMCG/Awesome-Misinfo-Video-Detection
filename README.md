@@ -274,11 +274,15 @@ This section contains the pilot works that utilize multimodal features to detect
     *Christos Christodoulou, Nikos Salamanos, Pantelitsa Leonidou, Michail Papadakis, Michael Sirivianos*. [[pdf](https://arxiv.org/pdf/2307.12155.pdf)] [[repo](https://github.com/christoschr97/misinf-detection-llms)] 
     - This paper converts the conventional vide classification task into a text classification task by leveraging the textual content derived from the video transcripts and presents a methodology for detecting misinformation on YouTube using different fine-tuned transformer models and few-shot learning.
 
-19. **[EMNLP-2023]Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines**. ![](https://img.shields.io/badge/textual-D8D0E1) 
+19. **[EMNLP-2023] Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines**. ![](https://img.shields.io/badge/textual-D8D0E1) 
 
     *Yoo Yeon Sung, Jordan Boyd-Graber, Naeemul Hassan*. [[PDF](https://arxiv.org/pdf/2310.13859.pdf)] [[repo](https://github.com/yysung/VMH/tree/master)]
     - This paper presents VMH, a dataset of misleading headlines from social media videos and analyze multimodal baselines for detecting misleading headlines.
 
+20. **[MTA-2023] Emotion aided multi-task framework for video embedded misinformation detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+    
+    *Rina Kumari, Vipin Gupta, Nischal Ashok, Tirthankar Ghosal, Asif Ekbal*. [[PDF](https://link.springer.com/article/10.1007/s11042-023-17208-6)]
+    - This paper develops a video-based multimodal fake news detection dataset named FakeClips and introduces a deep multitask framework dedicated to video-embedded multimodal fake news detection in which fake news detection is the main task and emotion recognition is the auxiliary task.
 
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
