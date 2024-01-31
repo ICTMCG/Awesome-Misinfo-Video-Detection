@@ -276,13 +276,18 @@ This section contains the pilot works that utilize multimodal features to detect
 
 19. **[EMNLP-2023] Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines**. ![](https://img.shields.io/badge/textual-D8D0E1) 
 
-    *Yoo Yeon Sung, Jordan Boyd-Graber, Naeemul Hassan*. [[PDF](https://arxiv.org/pdf/2310.13859.pdf)] [[repo](https://github.com/yysung/VMH/tree/master)]
+    *Yoo Yeon Sung, Jordan Boyd-Graber, Naeemul Hassan*. [[pdf](https://arxiv.org/pdf/2310.13859.pdf)] [[repo](https://github.com/yysung/VMH/tree/master)]
     - This paper presents VMH, a dataset of misleading headlines from social media videos and analyze multimodal baselines for detecting misleading headlines.
 
 20. **[MTA-2023] Emotion aided multi-task framework for video embedded misinformation detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
     
-    *Rina Kumari, Vipin Gupta, Nischal Ashok, Tirthankar Ghosal, Asif Ekbal*. [[PDF](https://link.springer.com/article/10.1007/s11042-023-17208-6)]
+    *Rina Kumari, Vipin Gupta, Nischal Ashok, Tirthankar Ghosal, Asif Ekbal*. [[pdf](https://link.springer.com/article/10.1007/s11042-023-17208-6)]
     - This paper develops a video-based multimodal fake news detection dataset named FakeClips and introduces a deep multitask framework dedicated to video-embedded multimodal fake news detection in which fake news detection is the main task and emotion recognition is the auxiliary task.
+
+21. **[ArXiv-2024] FakeClaim: A Multiple Platform-driven Dataset for Identification of Fake News on 2023 Israel-Hamas War**.  ![](https://img.shields.io/badge/textual-D8D0E1)
+
+    *Gautam Kishore Shahi, Amit Kumar Jaiswal, Thomas Mandl*. [[pdf](https://arxiv.org/pdf/2401.16625.pdf)] [[repo](https://github.com/Gautamshahi/FakeClaim)]
+    - This paper constructs a dataset of factual claims from different platforms and fake YouTube videos on the 2023 Israel-Hamas war for automatic fake YouTube video classification. A fine-tuned pretrain model is leveraged to classify fake videos within the subset of YouTube videos with textual information and user comments.
 
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
