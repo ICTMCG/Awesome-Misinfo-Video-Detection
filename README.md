@@ -289,6 +289,11 @@ This section contains the pilot works that utilize multimodal features to detect
     *Gautam Kishore Shahi, Amit Kumar Jaiswal, Thomas Mandl*. [[pdf](https://arxiv.org/pdf/2401.16625.pdf)] [[repo](https://github.com/Gautamshahi/FakeClaim)]
     - This paper constructs a dataset of factual claims from different platforms and fake YouTube videos on the 2023 Israel-Hamas war for automatic fake YouTube video classification. A fine-tuned pretrain model is leveraged to classify fake videos within the subset of YouTube videos with textual information and user comments.
 
+22. **[TCSS-2024] Cross-Modal Attention Network for Detecting Multimodal Misinformation From Multiple Platforms**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
+
+    *Zhiwei Guo, Yang Li, Zhenguo Yang, Xiaoping Li, Lap-Kei Lee, Qing Li, Wenyin Liu* [[pdf](https://ieeexplore.ieee.org/abstract/document/10478449/)]
+     - This paper constructs a multiplatform multimodal misinformation(3M) dataset by collecting data from TikTok(Chinese version) and Weibo and designs a crossmodal attention misinformation detection(CAMD) network. Extensive experiments on the 3M dataset validate the effectiveness of the proposed CAMD model.
+
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
