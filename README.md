@@ -293,6 +293,10 @@ This section contains the pilot works that utilize multimodal features to detect
 
     *Zhiwei Guo, Yang Li, Zhenguo Yang, Xiaoping Li, Lap-Kei Lee, Qing Li, Wenyin Liu* [[pdf](https://ieeexplore.ieee.org/abstract/document/10478449/)]
      - This paper constructs a multiplatform multimodal misinformation(3M) dataset by collecting data from TikTok(Chinese version) and Weibo and designs a crossmodal attention misinformation detection(CAMD) network. Extensive experiments on the 3M dataset validate the effectiveness of the proposed CAMD model.
+23. **[COLING-2024] Interpretable Short Video Rumor Detection based on Modality Tampering**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+
+    *Kaixuan Wu, Yanghao Lin, Donglin Cao, Dazhen Lin* [[pdf](https://aclanthology.org/2024.lrec-main.804.pdf)]
+     - This paper considers how to detect rumors from the perspective of modality tampering. The authors propose a short video rumor detection framework by designing two pretraining tasks: modality tampering detection and inter-modal matching and design an interpretability mechanism to make the rumor detection results more reasonable by backtracking the model’s decision-making process.
 
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
