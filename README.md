@@ -298,6 +298,11 @@ This section contains the pilot works that utilize multimodal features to detect
     *Kaixuan Wu, Yanghao Lin, Donglin Cao, Dazhen Lin* [[pdf](https://aclanthology.org/2024.lrec-main.804.pdf)]
      - This paper considers how to detect rumors from the perspective of modality tampering. The authors propose a short video rumor detection framework by designing two pretraining tasks: modality tampering detection and inter-modal matching and design an interpretability mechanism to make the rumor detection results more reasonable by backtracking the model’s decision-making process.
 
+24. **[PACIS-2024] Detecting Misinformation in Multimedia Content through Cross-Modal Entity Consistency: A Dual Learning Approach**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+
+    *Zhe Fu, Kanlun Wang, Wangjiaxuan Xin, Lina Zhou, Shi Chen, Yaorong Ge, Daniel Janies, Dongsong Zhang* [[pdf](https://www.researchgate.net/profile/Kanlun-Wang/publication/381458898_Detecting_Misinformation_in_Multimedia_Content_through_Cross-Modal_Entity_Consistency_A_Dual_Learning_Approach/links/666df49385a4ee7261c5af54/Detecting-Misinformation-in-Multimedia-Content-through-Cross-Modal-Entity-Consistency-A-Dual-Learning-Approach.pdf)]
+     - This paper proposed a Multimedia Misinformation Detection (MultiMD) framework for detecting misinformation from video content by leveraging cross-modal entity consistency.
+
 15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
