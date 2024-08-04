@@ -302,16 +302,34 @@ This section contains the pilot works that utilize multimodal features to detect
 
     *Zhe Fu, Kanlun Wang, Wangjiaxuan Xin, Lina Zhou, Shi Chen, Yaorong Ge, Daniel Janies, Dongsong Zhang* [[pdf](https://www.researchgate.net/profile/Kanlun-Wang/publication/381458898_Detecting_Misinformation_in_Multimedia_Content_through_Cross-Modal_Entity_Consistency_A_Dual_Learning_Approach/links/666df49385a4ee7261c5af54/Detecting-Misinformation-in-Multimedia-Content-through-Cross-Modal-Entity-Consistency-A-Dual-Learning-Approach.pdf)]
      - This paper proposed a Multimedia Misinformation Detection (MultiMD) framework for detecting misinformation from video content by leveraging cross-modal entity consistency.
+   
+25. **[MM-2024] Mitigating World Biases: A Multimodal Multi-View Debiasing Framework for Fake News Video Detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
-15. **[SSRN-2022]A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
+    *Zhi Zeng, Minnan Luo, Xiangzheng Kong, Huan Liu, Hao Guo, Hao Yang, Zihan Ma, Xiang Zhao* [[pdf](https://openreview.net/pdf?id=N7KGLxoKcC)]
+    - This paper propose a Multimodal MultiView Debiasing(MMVD) framework to solve the issue of biased fake news video detection. MMVD designs a multiview causal reasoning strategy to learn unbiased dependencies within the cognitive biases.
+
+26. **[MM-2024] FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+
+    *Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi, Danding Wang, Jintao Li* [[pdf](https://arxiv.org/abs/2407.16670)]
+    - This paper proposees FakingRecipe, a creative process-aware model for detecting fake news short videos. FakingRecipe captures the fake news preferences in material selection from sentimental and semantic aspects and considers the traits of material editing from spatial and temporal aspects. The authors also construct FakeTT, a new English dataset for fake news short video detection. 
+
+
+15. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
     - This paper proposes a three-step method to detect video-based misinformation. First, this method detects deepfakes first and then applies semantic analysis to detect shifts in the meaning and intent of the associated metadata of both videos. The last step entails a sentiment comparison to detect shifts in emotion.
+   
+16. **[SCID-2024] TripletViNet: Mitigating Misinformation Video Spread Across
+Platforms**. ![](https://img.shields.io/badge/cross--platform-D8D0E1)
 
+    *Petar Smolovic, Thilini Dahanayaka, Kanchana Thilakarathna*. [[pdf](https://arxiv.org/pdf/2407.10644)]
+
+    - This paper focuses on recognizing videos across multiple platforms by using the traffic traces of videos on one platform only and proposed a new framework TripletViNet. TripletViNet encompasses platform-wise pre-processing, an encoder trained utilizing triplet learning for improved accuracy and multiclass classifier for classifying the video title of a traffic trace.
 
 ### Related Areas
 
 This section contains the pilot works that discuss areas related to misinformation video detection.
+
 
 1. **[Soft Computing-2022] Intelligent techniques for deception detection: a survey and critical study**. ![](https://img.shields.io/badge/deception_detection-EAD8D9) ![](https://img.shields.io/badge/survey-D8D0E1) 
 
