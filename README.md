@@ -416,6 +416,7 @@ This section contains the pilot works that related to critical open issues and f
 |**Bilibili-Health**|[A CNN-based misleading video detection model](https://www.nature.com/articles/s41598-022-10117-y)| |Bilibili|Chinese|
 |**FakeSV**|[FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms](https://arxiv.org/pdf/2211.10973.pdf)|[link](https://github.com/ICTMCG/FakeSV)|Douyin,Kuaishou|Chinese|
 |**TikTok-Rumor**|[Interpretable Short Video Rumor Detection based on Modality Tampering](https://aclanthology.org/2024.lrec-main.804.pdf)||TikTok|English|
+|**FakeTT**|[FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process](https://www.arxiv.org/abs/2407.16670)|[link](https://github.com/ICTMCG/FakingRecipe)|TikTok|English|
 <!-- 1. **FVC** [[paper](https://drive.google.com/file/d/1OfGx0aBHeVK3TmAOP7Wi6APZZlgocmkG/view)] [[dataset](https://mklab.iti.gr/results/fake-video-corpus/)] 
 2. **YouTubeAudit** [[paper](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)] [[dataset](https://social-comp.github.io/YouTubeAudit-data/)]
 3. **FakeSV** [[paper](https://arxiv.org/pdf/2211.10973.pdf)] [[dataset](https://github.com/ICTMCG/FakeSV)]
