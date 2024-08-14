@@ -302,6 +302,10 @@ This section contains the pilot works that utilize multimodal features to detect
 
     *Zhe Fu, Kanlun Wang, Wangjiaxuan Xin, Lina Zhou, Shi Chen, Yaorong Ge, Daniel Janies, Dongsong Zhang* [[pdf](https://www.researchgate.net/profile/Kanlun-Wang/publication/381458898_Detecting_Misinformation_in_Multimedia_Content_through_Cross-Modal_Entity_Consistency_A_Dual_Learning_Approach/links/666df49385a4ee7261c5af54/Detecting-Misinformation-in-Multimedia-Content-through-Cross-Modal-Entity-Consistency-A-Dual-Learning-Approach.pdf)]
      - This paper proposed a Multimedia Misinformation Detection (MultiMD) framework for detecting misinformation from video content by leveraging cross-modal entity consistency.
+
+25. **[ACL-2024] Unveiling Opinion Evolution via Prompting and Diffusion for Short Video Fake News Detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+       *Linlin Zong, Jiahui Zhou, Wenmin Lin, Xinyue Liu, Xianchao Zhang, Bo Xu* [[pdf](https://aclanthology.org/2024.findings-acl.642.pdf)]
+       - This paper leverages the analytical capabilities of LLMs to assist in short video fake news detection tasks and devise opinion evolution based on a diffusion model to achieve cross-modal interaction.
    
 25. **[MM-2024] Mitigating World Biases: A Multimodal Multi-View Debiasing Framework for Fake News Video Detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
