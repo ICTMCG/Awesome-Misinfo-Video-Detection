@@ -317,6 +317,15 @@ This section contains the pilot works that utilize multimodal features to detect
     *Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi, Danding Wang, Jintao Li* [[pdf](https://arxiv.org/abs/2407.16670)]
     - This paper proposees FakingRecipe, a creative process-aware model for detecting fake news short videos. FakingRecipe captures the fake news preferences in material selection from sentimental and semantic aspects and considers the traits of material editing from spatial and temporal aspects. The authors also construct FakeTT, a new English dataset for fake news short video detection. 
 
+27. **[ArXiv-2024] VMID: A Multimodal Fusion LLM Framework for Detecting and Identifying Misinformation of Short Videos**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+
+    *Weihao Zhong, Yinhao Xiao, Minghui Xu, Xiuzhen Cheng* [[pdf](https://arxiv.org/pdf/2411.10032)]
+    - This paper proposes method VMID for fake news detection. VMID utilizes pre-trained models—such as Whisper for audio transcription, CogVLM2 for visual frameanalysis, and VSE (Video-subtitle-extractor) for aligningtextual and visual content—to create a unified multimodal representation. It also incorporates metadata, including upload time, engagement metrics, and user comments. The combined data is structured into a prompt for evaluation by a LoRA-tuned LLM, enabling the identification of misinformation within short videos.
+
+28. **[IPM-2024] Enhancing video rumor detection through multimodal deep feature fusion with time-sync comments** . ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+
+    *Ming Yin, Wei Chen, Dan Zhu, Jijiao Jiang*  [[pdf](https://www.sciencedirect.com/science/article/pii/S0306457324002942)]
+    - This paper introduces TSCs(Time-Sync Comment/弹幕) into rumor detection. The authors propose TSC-MDFFM method, which introduces time-sync comments to enhance the propagation structure of videos on social networks and utilizes a graph neural network to  aggregate text features, employing Low-Rank Multimodal Fusion to merge the text features, overall video motion features, and visual features of the video to establish the global feature representation. An attention mechanism is then used to fuse the video's local features and global features, and a fully connected neural network is employed for rumor classification. This paper also curates a TSC-Video Rumor detection dataset from Bilibili, which comprises a total of 645 samples, with 262 labeled as rumors and 383 as non-rumors. The dataset is not open-sourced yet.
 
 15. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
