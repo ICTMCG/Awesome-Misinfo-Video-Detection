@@ -326,6 +326,12 @@ This section contains the pilot works that utilize multimodal features to detect
 
     *Ming Yin, Wei Chen, Dan Zhu, Jijiao Jiang*  [[pdf](https://www.sciencedirect.com/science/article/pii/S0306457324002942)]
     - This paper introduces TSCs(Time-Sync Comment/弹幕) into rumor detection. The authors propose TSC-MDFFM method, which introduces time-sync comments to enhance the propagation structure of videos on social networks and utilizes a graph neural network to  aggregate text features, employing Low-Rank Multimodal Fusion to merge the text features, overall video motion features, and visual features of the video to establish the global feature representation. An attention mechanism is then used to fuse the video's local features and global features, and a fully connected neural network is employed for rumor classification. This paper also curates a TSC-Video Rumor detection dataset from Bilibili, which comprises a total of 645 samples, with 262 labeled as rumors and 383 as non-rumors. The dataset is not open-sourced yet.
+   
+29. **[ArXiv-2025] Multimodal Fake News Video Explanation Generation** . ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
+
+    *Lizhi Chen, Zhong Qian, Peifeng Li, Qiaoming Zhu*
+    [[pdf](https://arxiv.org/pdf/2501.08514)]
+    - This paper proposes the task of MultiModal Fake News Video Explanation (MFNVE) and develops a Multimodal Relation Graph Transformer (MRGT) model to capture inherent ties between vision and semantics for improved veracity reasoning.
 
 15. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
@@ -423,8 +429,10 @@ This section contains the pilot works that related to critical open issues and f
 |**YouTube-Covid**|[NLP-based Feature Extraction for the Detection of COVID-19 Misinformation Videos on YouTube](https://aclanthology.org/2020.nlpcovid19-acl.17.pdf)| |YouTube|English|
 |**TikTok-Covid**|[A Multimodal Misinformation Detector for COVID-19 Short Videos on TikTok](https://ieeexplore.ieee.org/abstract/document/9671928/)| |TikTok|English|
 |**Bilibili-Health**|[A CNN-based misleading video detection model](https://www.nature.com/articles/s41598-022-10117-y)| |Bilibili|Chinese|
+|**TikTok-Rumor**|[Interpretable Short Video Rumor Detection based on Modality Tampering](https://arxiv.org/pdf/2302.07919.pdf)||TikTok|English|
+|**COVID-VTS**|[COVID-VTS: Fact Extraction and Verification on Short Video Platforms](https://aclanthology.org/2024.lrec-main.804.pdf)|[link](https://github.com/FuxiaoLiu/Twitter-Video-dataset)|Twitter|English|
+|**Official-NV**|[Official-NV: An LLM-Generated News Video Dataset for Multimodal Fake News Detection](https://arxiv.org/pdf/2407.19493)||Xinhua News|English|
 |**FakeSV**|[FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms](https://arxiv.org/pdf/2211.10973.pdf)|[link](https://github.com/ICTMCG/FakeSV)|Douyin,Kuaishou|Chinese|
-|**TikTok-Rumor**|[Interpretable Short Video Rumor Detection based on Modality Tampering](https://aclanthology.org/2024.lrec-main.804.pdf)||TikTok|English|
 |**FakeTT**|[FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process](https://www.arxiv.org/abs/2407.16670)|[link](https://github.com/ICTMCG/FakingRecipe)|TikTok|English|
 <!-- 1. **FVC** [[paper](https://drive.google.com/file/d/1OfGx0aBHeVK3TmAOP7Wi6APZZlgocmkG/view)] [[dataset](https://mklab.iti.gr/results/fake-video-corpus/)] 
 2. **YouTubeAudit** [[paper](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)] [[dataset](https://social-comp.github.io/YouTubeAudit-data/)]
