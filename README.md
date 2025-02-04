@@ -333,6 +333,13 @@ This section contains the pilot works that utilize multimodal features to detect
     [[pdf](https://arxiv.org/pdf/2501.08514)]
     - This paper proposes the task of MultiModal Fake News Video Explanation (MFNVE) and develops a Multimodal Relation Graph Transformer (MRGT) model to capture inherent ties between vision and semantics for improved veracity reasoning.
 
+30. **[WWW-2025] Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning** . ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
+
+    *Rongpei Hong, Jian Lang, Jin Xu, Zhangtao Cheng, Ting Zhong, Fan Zhou*
+    [[pdf](https://openreview.net/pdf?id=lq2jDWv3w0)]
+    - This work introduces ExMRD, an Explainable Micro-video Rumor Detection framework designed to generate detailed and coherent explanations for enhancing MVRD. ExMRD introduces a inference mechanism called $R^3CoT$-- consisting of Refining, Retrieving, and Reasoning on MVRD and proposes a Small Language Reviewer (SLReviewer), distilling the explainable evidence from $R^3CoT$ to facilitate reliable rumor detection. 
+
+31. **[] Exploring the Role of Explicit Temporal Modeling in Multimodal Large Language Models for Video Understanding**
 15. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
