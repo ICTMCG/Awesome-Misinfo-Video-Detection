@@ -341,20 +341,25 @@ This section contains the pilot works that utilize multimodal features to detect
 
 31. **[Infomation Sciences-2025] Short video rumor detection based on causal graph**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
-    *Donglin Cao, Xiong Tang, Yanghao Lin, Dazhen Lin* [[pdf](https://www.sciencedirect.com/science/article/pii/S0020025525000738)]
+    *Donglin Cao , Xiong Tang, Yanghao Lin, Dazhen Lin* [[pdf](https://www.sciencedirect.com/science/article/pii/S0020025525000738)]
     - This paper constructs a Chinese short video rumor dataset with a causal knowledge repository and an evidence base. It proposes a Causal Short Video Rumor Pretrain Model (CSVRPM) that incorporates causal relationships between entities in external evidence as knowledge. The model retrieves relevant causal subgraphs and integrates causal relationships using an attention mechanism to improve the interpretability of rumor detection. 
 
-32. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
+32. **[TBD-2025] MultiTec: A Data-Driven Multimodal Short Video Detection Framework for Healthcare Misinformation on TikTok** ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+
+    *Lanyu Shang, Yang Zhang, Yawen Deng, Dong Wang* [[pdf](https://www.researchgate.net/publication/388437035_MultiTec_A_Data-Driven_Multimodal_Short_Video_Detection_Framework_for_Healthcare_Misinformation_on_TikTok)]
+    - This paper presents MultiTec, a multimodal detection framework that uses audio and visual content along with a dual-attentive transformer mechanism to accurately detect misleading health-related short videos on TikTok. This work is an extension of the authors' previous research published in the 2021 IEEE International Conference on Big Data (see above).
+
+33. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
     - This paper proposes a three-step method to detect video-based misinformation. First, this method detects deepfakes first and then applies semantic analysis to detect shifts in the meaning and intent of the associated metadata of both videos. The last step entails a sentiment comparison to detect shifts in emotion.
    
-33. **[SCID-2024] TripletViNet: Mitigating Misinformation Video Spread Across
+34. **[SCID-2024] TripletViNet: Mitigating Misinformation Video Spread Across
 Platforms**. ![](https://img.shields.io/badge/cross--platform-D8D0E1)
 
     *Petar Smolovic, Thilini Dahanayaka, Kanchana Thilakarathna*. [[pdf](https://arxiv.org/pdf/2407.10644)]
 
-    - This paper focuses on recognizing videos across multiple platforms by using the traffic traces of videos on one platform only and proposed a new framework TripletViNet. TripletViNet encompasses platform-wise pre-processing, an encoder trained utilizing triplet learning for improved accuracy, and multiclass classifier for classifying the video title of a traffic trace.
+    - This paper focuses on recognizing videos across multiple platforms by using the traffic traces of videos on one platform only and proposed a new framework TripletViNet. TripletViNet encompasses platform-wise pre-processing, an encoder trained utilizing triplet learning for improved accuracy and multiclass classifier for classifying the video title of a traffic trace.
 
 ### Related Areas
 
