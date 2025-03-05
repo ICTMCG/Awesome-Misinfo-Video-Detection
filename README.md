@@ -304,8 +304,9 @@ This section contains the pilot works that utilize multimodal features to detect
      - This paper proposed a Multimedia Misinformation Detection (MultiMD) framework for detecting misinformation from video content by leveraging cross-modal entity consistency.
 
 25. **[ACL-2024] Unveiling Opinion Evolution via Prompting and Diffusion for Short Video Fake News Detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
-       *Linlin Zong, Jiahui Zhou, Wenmin Lin, Xinyue Liu, Xianchao Zhang, Bo Xu* [[pdf](https://aclanthology.org/2024.findings-acl.642.pdf)]
-       - This paper leverages the analytical capabilities of LLMs to assist in short video fake news detection tasks and devise opinion evolution based on a diffusion model to achieve cross-modal interaction.
+
+    *Linlin Zong, Jiahui Zhou, Wenmin Lin, Xinyue Liu, Xianchao Zhang, Bo Xu* [[pdf](https://aclanthology.org/2024.findings-acl.642.pdf)]
+     - This paper leverages the analytical capabilities of LLMs to assist in short video fake news detection tasks and devise opinion evolution based on a diffusion model to achieve cross-modal interaction.
    
 25. **[MM-2024] Mitigating World Biases: A Multimodal Multi-View Debiasing Framework for Fake News Video Detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
@@ -354,14 +355,17 @@ This section contains the pilot works that utilize multimodal features to detect
     *Lanyu Shang, Yang Zhang, Yawen Deng, Dong Wang* [[pdf](https://www.researchgate.net/publication/388437035_MultiTec_A_Data-Driven_Multimodal_Short_Video_Detection_Framework_for_Healthcare_Misinformation_on_TikTok)]
     - This paper presents MultiTec, a multimodal detection framework that uses audio and visual content along with a dual-attentive transformer mechanism to accurately detect misleading health-related short videos on TikTok. This work is an extension of the authors' previous research published in the 2021 IEEE International Conference on Big Data (see above).
 
+34. **[AAAI-2025] Learning Complex Heterogeneous Multimodal Fake News via Social Latent Network Inference**![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
+    *Mingxin Li, Yuchen Zhang, Haowei Xu, Xianghua Li, Chao Gao, Zhen Wang* [[pdf](https://arxiv.org/pdf/2501.15508)]
+    - This paper proposes HML, a method for detecting complex heterogeneous multimodal fake news by inferring latent social networks and enhancing multimodal content representation through self-supervised learning.
 
-34. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
+35. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
     - This paper proposes a three-step method to detect video-based misinformation. First, this method detects deepfakes first and then applies semantic analysis to detect shifts in the meaning and intent of the associated metadata of both videos. The last step entails a sentiment comparison to detect shifts in emotion.
    
-35. **[SCID-2024] TripletViNet: Mitigating Misinformation Video Spread Across
+36. **[SCID-2024] TripletViNet: Mitigating Misinformation Video Spread Across
 Platforms**. ![](https://img.shields.io/badge/cross--platform-D8D0E1)
 
     *Petar Smolovic, Thilini Dahanayaka, Kanchana Thilakarathna*. [[pdf](https://arxiv.org/pdf/2407.10644)]
