@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Paper List for Misinformation Video Detection](#paper-list-for-misinfomation-video-detection)
+- [Awesome-Misinfo-Video-Detection](#awesome-misinfo-video-detection)
   - [Contents](#contents)
   - [Introduction](#introduction)
     - [Keywords Convention](#keywords-convention)
@@ -16,7 +16,7 @@
   - [Resources](#resources)
     - [Datasets](#datasets)
     - [Tools](#tools)
-  - [Citation](#citation)
+    - [Citation](#citation)
 
 
 ## Introduction
@@ -39,34 +39,41 @@ This is a paper list (working in progress) about **Misinformation Video Detectio
    *Sukrit Venkatagiri, Joseph S. Schafer, Stephen Prochaska*. CHI 2023 Workshop on Building Credibility, Trust, and Safety on VideoSharing Platforms, April 23–28, 2023, Hamburg, Germany.[[pdf](https://arxiv.org/pdf/2303.14309.pdf)]
 
 
-1. **Multi-modal Misinformation Detection: Approaches, Challenges and Opportunities**. ![](https://img.shields.io/badge/multimodal_detection-D8D0E1)
+2. **Multi-modal Misinformation Detection: Approaches, Challenges and Opportunities**. ![](https://img.shields.io/badge/multimodal_detection-D8D0E1)
 
    *Sara Abdali*. arXiv preprint arXiv:2203.13883 (2022).  [[pdf](https://arxiv.org/pdf/2203.13883.pdf)] 
-2. **A Survey on Multimodal Disinformation Detection**. ![](https://img.shields.io/badge/multimodal_detection-D8D0E1)
+3. **A Survey on Multimodal Disinformation Detection**. ![](https://img.shields.io/badge/multimodal_detection-D8D0E1)
 
    *Firoj Alam, Stefano Cresci, Tanmoy Chakraborty, Fabrizio Silvestri, Dimitar Dimitrov, Giovanni Da San Martino, Shaden Shaar, Hamed Firooz, Preslav Nakov*.  arXiv preprint arXiv:2103.12541 (2021) [[pdf](https://arxiv.org/pdf/2103.12541.pdf)] 
-3. **Exploring the role of visual content in fake news detection**. ![](https://img.shields.io/badge/multimodal_detection-D8D0E1)
+4. **Exploring the role of visual content in fake news detection**. ![](https://img.shields.io/badge/multimodal_detection-D8D0E1)
 
    *Juan Cao, Peng Qi, Qiang Sheng, Tianyun Yang, Junbo Guo, Jintao Li*. Disinformation, Misinformation, and Fake News in Social Media: Emerging Research Challenges and Opportunities (2020): 141-161.  [[pdf](https://arxiv.org/pdf/2003.05096.pdf)] 
-4. **A Survey on Video-Based Fake News Detection Techniques**. ![](https://img.shields.io/badge/video_forgery_detection-D8D0E1)
+5. **A Survey on Video-Based Fake News Detection Techniques**. ![](https://img.shields.io/badge/video_forgery_detection-D8D0E1)
 
    *Ronak Agrawal, Dilip Kumar Sharma*. 2021 8th International Conference on Computing for Sustainable Global Development (INDIACom). IEEE, 2021.  [[pdf](https://ieeexplore.ieee.org/abstract/document/9441196)]
-
-5. **A comprehensive survey on passive techniques for digital video forgery detection**. ![](https://img.shields.io/badge/video_forgery_detection-D8D0E1)
+6. **A comprehensive taxonomy on multimedia video forgery detection techniques: challenges and novel trends**![](https://img.shields.io/badge/video_forgery_detection-D8D0E1)
+  *Walid El-Shafai, Mona A. Fouda, El-Sayed M. El-Rabaie, Nariman Abd El-Salam*. Multimedia Tools and Applications, May 2023 [[pdf](https://link.springer.com/article/10.1007/s11042-023-15609-1)]
+7. **A comprehensive survey on passive techniques for digital video forgery detection**. ![](https://img.shields.io/badge/video_forgery_detection-D8D0E1)
 
    *Nitin Arvind Shelke, Singara Singh Kasana*. Multimed Tools Appl 80, 6247–6310 (2021) [[pdf](https://link.springer.com/article/10.1007/s11042-020-09974-4)]
 
-5. **Fighting Malicious Media Data: A Survey on
-Tampering Detection and Deepfake Detection**. ![](https://img.shields.io/badge/media_forensic-D8D0E1) 
+8. **Fighting Malicious Media Data: A Survey on Tampering Detection and Deepfake Detection**. ![](https://img.shields.io/badge/media_forensic-D8D0E1) 
 
     *Junke Wang, Zhenxin Li, Chao Zhang, Jingjing Chen, Zuxuan Wu, Larry S. Davis, Yu-Gang Jiang*. ArXiv, 2022. [[pdf](https://arxiv.org/pdf/2212.05667.pdf)]
-5. **A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities**. ![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
-
+9.  **A Comprehensive Survey on Detection of Fake Multimedia Content**. ![](https://img.shields.io/badge/media_forensic-D8D0E1)
+   *Ayush S. Acharya,Ashish A Shisal,Saurabh K. Butale,Omkar B. Latpate,Shalaka P. Deore*. Cureus J Comput Sci 2 : es44389-024-01525-4. [[pdf](https://assets.cureusjournals.com/artifacts/upload/review_article/pdf/1525/20250728-78905-qyxcdl.pdf)]
+10. **Fake News Detection: A Comprehensive Survey**. ![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
+    *Elton Tata, Jaumin Ajdari, Nuhi Besimi*. 2023 46th MIPRO ICT and Electronics Convention (MIPRO), Opatija, Croatia, 2023, pp. 309-314. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10159859)]
+11. **A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities**. ![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
    *Xinyi Zhou, Reza Zafarani*. ACM Computing Surveys (CSUR) 53.5 (2020): 1-40. [[pdf](https://arxiv.org/pdf/1812.00315)]
-6. **Fake news detection on social media: A data mining perspective**. ![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
-
+12. **Fake news detection on social media: A data mining perspective**. ![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
    *Kai Shu,Amy Sliva,Suhang Wang,Jiliang Tang,Huan Liu*.  ACM SIGKDD Explorations Newsletter,Volume 19,Issue 1,June 2017, pp 22–36. [[pdf](https://arxiv.org/pdf/1708.01967)]
-
+13. **A comprehensive survey of fake news in social networks: Attributes, features, and detection approaches.**![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
+    *Medeswara Rao Kondamudi, Somya Ranjan Sahoo, Lokesh Chouhan, Nandakishor Yadav*.   J. King Saud Univ. Comput. Inf. Sci. 35(6): 101571 (2023) [[pdf](https://www.sciencedirect.com/science/article/pii/S1319157823001258?ref=pdf_download&fr=RR-9&rr=98270acd68912632)]
+14. **A comprehensive survey of multimodal fake news detection techniques: advances, challenges, and opportunities.**![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
+    *Shivani Tufchi, Ashima Yadav, Tanveer Ahmed*. Int J Multimed Info Retr 12, 28 (2023). [[pdf](https://doi.org/10.1007/s13735-023-00296-3)]
+15. **Decoding Fake News and Hate Speech: A Survey of Explainable AI Techniques.** ![](https://img.shields.io/badge/fake_news_detection-D8D0E1)
+    *Mikel K. Ngueajio, Saurav K. Aryal, Marcellin Atemkeng, Gloria J. Washington, Danda B. Rawat*. ACM Comput. Surv. 57(7): 169:1-169:37 (2025)[[pdf](https://dl.acm.org/doi/pdf/10.1145/3711123)]
 ### Analysis
 
 This section contains the pilot works that analyze misinformation video on online platform, including the impact of video modality and the propagation feature on recommendation-dominated plaforms.
@@ -92,7 +99,9 @@ This section contains the pilot works that analyze misinformation video on onlin
 
    *Matus Tomlein, Branislav Pecher, Jakub Simko, Ivan Srba, Robert Moro, Elena Stefancova, Michal Kompan, Andrea Hrckova, Juraj Podrouzek, Maria Bielikova*. [[pdf](https://www.ijcai.org/proceedings/2022/0749.pdf)]
    - This paper describes a black-box sockpuppeting audit which was carried out to investigate the creation and bursting dynamics of misinformation flter bubbles on YouTube.
-
+6. **[DIGITAL HEALTH-2023] COVID-19 misinformation on YouTube: An analysis of its impact and subsequent online information searches for verification**.
+   *Sabrina Heike Kessler, Edda Humprecht*. [[pdf](https://journals.sagepub.com/doi/epub/10.1177/20552076231177131)]
+   - This study examines the effects of exposure to COVID-19 misinformation videos on YouTube, focusing on how such content influences viewers’ attitudes and whether it triggers subsequent information-seeking behaviors for verification.
 ### Detection at Signal Level
 
 This section contains the pilot works that detect misinformation video at signal level, i.e., detect with the clues of editing traces or generating traces.
@@ -174,8 +183,15 @@ This section contains the pilot works that detect misinformation video at signal
 
     *Jiajun Huang, Xinqi Zhu, Chengbin Du, Siqi Ma, Surya Nepal, Chang Xu*. [[pdf](https://arxiv.org/pdf/2302.06183.pdf)]
     - The authors propose a novel anti-compression forgery detection framework by maintaining closer relations within data under different compression levels.
-
-
+11. **[J.Stud.Res(Journal_of_Student_Research)] Deepfake Forensics: Identifying Real Regions in Altered Videos with Digital Watermarking**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/video-D8D0E1)
+    *Asthana, A., Saarinen, .S.* [[pdf](https://www.jsr.org/index.php/path/article/view/2209/1308)]
+    - This study proposed a method to identify the real areas in tampered videos through digital watermarks, providing new ideas for video forensics.
+12. **[WACV-2025] MVFNet: Multipurpose Video Forensics Network using Multiple Forms of Forensic Evidence**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/compressed_video-D8D0E1)
+   *Tai D. Nguyen, Matthew C. Stamm* [[pdf](https://arxiv.org/pdf/2503.20991)]
+       - MVFNet is a multi-purpose video forensics network capable of detecting multiple types of tampering, including deepfakes, image inpainting, splicing, and editing.
+13. **[arXiv-2025] Memory-Anchored Multimodal Reasoning for Explainable Video Forensics**. ![](https://img.shields.io/badge/editing_traces-EAD8D9) ![](https://img.shields.io/badge/compressed_video-D8D0E1)
+    *Chen Chen, Runze Li, Zejun Zhang, Pukun Zhao, Fanqing Zhou, Longxiang Wang, Haojian Huang* [[pdf](https://arxiv.org/pdf/2508.14581)]
+      - FakeHunter combines memory-guided retrieval, chained reasoning, and tool-augmented verification to provide accurate and explainable video forensics.
 ### Detection at Semantic and Intent Level
 
 This section contains the pilot works that utilize multimodal features to detect misinformation video at Semantic/Intent Level.
@@ -283,12 +299,12 @@ This section contains the pilot works that utilize multimodal features to detect
     
     *Rina Kumari, Vipin Gupta, Nischal Ashok, Tirthankar Ghosal, Asif Ekbal*. [[pdf](https://link.springer.com/article/10.1007/s11042-023-17208-6)]
     - This paper develops a video-based multimodal fake news detection dataset named FakeClips and introduces a deep multitask framework dedicated to video-embedded multimodal fake news detection in which fake news detection is the main task and emotion recognition is the auxiliary task.
-
+20. **[ArXiv-2024]Official-NV: A News Video Dataset for Multimodal Fake News Detection.** ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1)
+   *Yihao Wang, Lizhi Chen, Zhong Qian, Peifeng Li*. [[pdf](https://arxiv.org/pdf/2407.19493)]
+       - The paper constructs a dataset called Official-NV, which consists of officially released news videos. This dataset uses a large language model (LLM) for data augmentation and manual verification. The goal is to detect multimodal fake news. The authors also propose a baseline model, OFNVD, for feature augmentation and cross-modal fusion.
 21. **[ArXiv-2024] FakeClaim: A Multiple Platform-driven Dataset for Identification of Fake News on 2023 Israel-Hamas War**.  ![](https://img.shields.io/badge/textual-D8D0E1)
-
     *Gautam Kishore Shahi, Amit Kumar Jaiswal, Thomas Mandl*. [[pdf](https://arxiv.org/pdf/2401.16625.pdf)] [[repo](https://github.com/Gautamshahi/FakeClaim)]
     - This paper constructs a dataset of factual claims from different platforms and fake YouTube videos on the 2023 Israel-Hamas war for automatic fake YouTube video classification. A fine-tuned pretrain model is leveraged to classify fake videos within the subset of YouTube videos with textual information and user comments.
-
 22. **[TCSS-2024] Cross-Modal Attention Network for Detecting Multimodal Misinformation From Multiple Platforms**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
 
     *Zhiwei Guo, Yang Li, Zhenguo Yang, Xiaoping Li, Lap-Kei Lee, Qing Li, Wenyin Liu* [[pdf](https://ieeexplore.ieee.org/abstract/document/10478449/)]
@@ -308,70 +324,83 @@ This section contains the pilot works that utilize multimodal features to detect
     *Linlin Zong, Jiahui Zhou, Wenmin Lin, Xinyue Liu, Xianchao Zhang, Bo Xu* [[pdf](https://aclanthology.org/2024.findings-acl.642.pdf)]
      - This paper leverages the analytical capabilities of LLMs to assist in short video fake news detection tasks and devise opinion evolution based on a diffusion model to achieve cross-modal interaction.
    
-25. **[MM-2024] Mitigating World Biases: A Multimodal Multi-View Debiasing Framework for Fake News Video Detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+26. **[MM-2024] Mitigating World Biases: A Multimodal Multi-View Debiasing Framework for Fake News Video Detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
     *Zhi Zeng, Minnan Luo, Xiangzheng Kong, Huan Liu, Hao Guo, Hao Yang, Zihan Ma, Xiang Zhao* [[pdf](https://openreview.net/pdf?id=N7KGLxoKcC)]
     - This paper propose a Multimodal MultiView Debiasing(MMVD) framework to solve the issue of biased fake news video detection. MMVD designs a multiview causal reasoning strategy to learn unbiased dependencies within the cognitive biases.
 
-26. **[MM-2024] FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+27. **[MM-2024] FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
     *Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi, Danding Wang, Jintao Li* [[pdf](https://arxiv.org/abs/2407.16670)]
     - This paper proposees FakingRecipe, a creative process-aware model for detecting fake news short videos. FakingRecipe captures the fake news preferences in material selection from sentimental and semantic aspects and considers the traits of material editing from spatial and temporal aspects. The authors also construct FakeTT, a new English dataset for fake news short video detection. 
 
-27. **[ArXiv-2024] VMID: A Multimodal Fusion LLM Framework for Detecting and Identifying Misinformation of Short Videos**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+28. **[ArXiv-2024] VMID: A Multimodal Fusion LLM Framework for Detecting and Identifying Misinformation of Short Videos**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
     *Weihao Zhong, Yinhao Xiao, Minghui Xu, Xiuzhen Cheng* [[pdf](https://arxiv.org/pdf/2411.10032)]
     - This paper proposes method VMID for fake news detection. VMID utilizes pre-trained models—such as Whisper for audio transcription, CogVLM2 for visual frameanalysis, and VSE (Video-subtitle-extractor) for aligningtextual and visual content—to create a unified multimodal representation. It also incorporates metadata, including upload time, engagement metrics, and user comments. The combined data is structured into a prompt for evaluation by a LoRA-tuned LLM, enabling the identification of misinformation within short videos.
 
-28. **[IPM-2024] Enhancing video rumor detection through multimodal deep feature fusion with time-sync comments** . ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
+29. **[IPM-2024] Enhancing video rumor detection through multimodal deep feature fusion with time-sync comments** . ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
 
     *Ming Yin, Wei Chen, Dan Zhu, Jijiao Jiang*  [[pdf](https://www.sciencedirect.com/science/article/pii/S0306457324002942)]
     - This paper introduces TSCs(Time-Sync Comment/弹幕) into rumor detection. The authors propose TSC-MDFFM method, which introduces time-sync comments to enhance the propagation structure of videos on social networks and utilizes a graph neural network to  aggregate text features, employing Low-Rank Multimodal Fusion to merge the text features, overall video motion features, and visual features of the video to establish the global feature representation. An attention mechanism is then used to fuse the video's local features and global features, and a fully connected neural network is employed for rumor classification. This paper also curates a TSC-Video Rumor detection dataset from Bilibili, which comprises a total of 645 samples, with 262 labeled as rumors and 383 as non-rumors. The dataset is not open-sourced yet.
    
-29. **[DSIT-2024] MMSFD: Multi-grained and Multi-modal Fusion for Short Video Fake News Detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+30. **[DSIT-2024] MMSFD: Multi-grained and Multi-modal Fusion for Short Video Fake News Detection**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
     *Shuai Ren, Yahui Liu, Yaping Zhu, Wanlong Bing, Hongliang Ma, Wei Wang* [[pdf](https://ieeexplore.ieee.org/document/10881540)]
     - This paper proposes a Multi-grained and Multi-modal Fusion method for Short video Fake News Detection (MMSFD), which integrates fine-grained and coarse-grained features from text, visual content, and publisher information using pre-trained models like BERT, Swin-T, and ViCLIP, and employs a similarity-weighted multi-modal fusion branch and cross-modal attention mechanism to enhance fake news detection accuracy.
 
-30. **[ArXiv-2025] Multimodal Fake News Video Explanation Generation** . ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
+31. **[ArXiv-2025] Multimodal Fake News Video Explanation Generation** . ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
 
     *Lizhi Chen, Zhong Qian, Peifeng Li, Qiaoming Zhu*
     [[pdf](https://arxiv.org/pdf/2501.08514)]
     - This paper proposes the task of MultiModal Fake News Video Explanation (MFNVE) and develops a Multimodal Relation Graph Transformer (MRGT) model to capture inherent ties between vision and semantics for improved veracity reasoning.
 
-31. **[WWW-2025] Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning** . ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
+32. **[WWW-2025] Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning** . ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) 
 
     *Rongpei Hong, Jian Lang, Jin Xu, Zhangtao Cheng, Ting Zhong, Fan Zhou*
     [[pdf](https://openreview.net/pdf?id=lq2jDWv3w0)]
     - This work introduces ExMRD, an Explainable Micro-video Rumor Detection framework designed to generate detailed and coherent explanations for enhancing MVRD. ExMRD introduces a inference mechanism called $R^3CoT$-- consisting of Refining, Retrieving, and Reasoning on MVRD and proposes a Small Language Reviewer (SLReviewer), distilling the explainable evidence from $R^3CoT$ to facilitate reliable rumor detection. 
 
-32. **[Infomation Sciences-2025] Short video rumor detection based on causal graph**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+33. **[Infomation Sciences-2025] Short video rumor detection based on causal graph**. ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
     *Donglin Cao , Xiong Tang, Yanghao Lin, Dazhen Lin* [[pdf](https://www.sciencedirect.com/science/article/pii/S0020025525000738)]
     - This paper constructs a Chinese short video rumor dataset with a causal knowledge repository and an evidence base. It proposes a Causal Short Video Rumor Pretrain Model (CSVRPM) that incorporates causal relationships between entities in external evidence as knowledge. The model retrieves relevant causal subgraphs and integrates causal relationships using an attention mechanism to improve the interpretability of rumor detection. 
 
-33. **[TBD-2025] MultiTec: A Data-Driven Multimodal Short Video Detection Framework for Healthcare Misinformation on TikTok** ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+34. **[TBD-2025] MultiTec: A Data-Driven Multimodal Short Video Detection Framework for Healthcare Misinformation on TikTok** ![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
     *Lanyu Shang, Yang Zhang, Yawen Deng, Dong Wang* [[pdf](https://www.researchgate.net/publication/388437035_MultiTec_A_Data-Driven_Multimodal_Short_Video_Detection_Framework_for_Healthcare_Misinformation_on_TikTok)]
     - This paper presents MultiTec, a multimodal detection framework that uses audio and visual content along with a dual-attentive transformer mechanism to accurately detect misleading health-related short videos on TikTok. This work is an extension of the authors' previous research published in the 2021 IEEE International Conference on Big Data (see above).
 
-34. **[AAAI-2025] Learning Complex Heterogeneous Multimodal Fake News via Social Latent Network Inference**![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
+35. **[AAAI-2025] Learning Complex Heterogeneous Multimodal Fake News via Social Latent Network Inference**![](https://img.shields.io/badge/visual-D8D0E1) ![](https://img.shields.io/badge/textual-D8D0E1) ![](https://img.shields.io/badge/acoustic-D8D0E1)
 
     *Mingxin Li, Yuchen Zhang, Haowei Xu, Xianghua Li, Chao Gao, Zhen Wang* [[pdf](https://arxiv.org/pdf/2501.15508)]
     - This paper proposes HML, a method for detecting complex heterogeneous multimodal fake news by inferring latent social networks and enhancing multimodal content representation through self-supervised learning.
 
-35. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
+36. **[SSRN-2022] A Novel Method for Detecting Misinformation in Videos, Utilizing Reverse Image Search, Semantic Analysis, and Sentiment Comparison of Metadata**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
     
     *Dhanvi Ganti*. [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128499)]
     - This paper proposes a three-step method to detect video-based misinformation. First, this method detects deepfakes first and then applies semantic analysis to detect shifts in the meaning and intent of the associated metadata of both videos. The last step entails a sentiment comparison to detect shifts in emotion.
    
-36. **[SCID-2024] TripletViNet: Mitigating Misinformation Video Spread Across
-Platforms**. ![](https://img.shields.io/badge/cross--platform-D8D0E1)
+37. **[SCID-2024] TripletViNet: Mitigating Misinformation Video Spread Across Platforms**. ![](https://img.shields.io/badge/cross--platform-D8D0E1)
 
     *Petar Smolovic, Thilini Dahanayaka, Kanchana Thilakarathna*. [[pdf](https://arxiv.org/pdf/2407.10644)]
 
     - This paper focuses on recognizing videos across multiple platforms by using the traffic traces of videos on one platform only and proposed a new framework TripletViNet. TripletViNet encompasses platform-wise pre-processing, an encoder trained utilizing triplet learning for improved accuracy and multiclass classifier for classifying the video title of a traffic trace.
-
+38. **[ArXiv-2025] Mining the Social Fabric: Unveiling Communities for Fake News Detection in Short Videos** .  ![](https://img.shields.io/badge/social_context-D8D0E1)
+    *Haisong Gong, Bolan Su, Xinrong Zhang, Jing Li, Qiang Liu, Shu Wu, Liang Wang*. [[pdf](https://arxiv.org/pdf/2508.07992)]
+    - This paper proposes DugFND, a dual-community graph approach for short video fake news detection. DugFND simultaneously models an uploader community and an event community, characterizing the potential connections between uploaders and the association of videos within the context of the same event, respectively. The authors represent videos, uploaders, and events as distinct nodes in a heterogeneous graph and implement information propagation across node types using a time-aware heterogeneous graph attention network. During training, the model employs reconstruction-based pretraining to improve node representation quality and can be combined with existing video classifiers. 
+39. **[DASFAA-2025] T<sup>3</sup>SVFND: Towards an Evolving Fake News Detector for Emergencies with Test-time Training on Short Video Platforms**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
+    *Liyuan Zhang, Zeyun Cheng, Yan Yang, Yong Liu, Jinke Ma*. [[pdf](https://arxiv.org/pdf/2507.20286)]
+    - The authors note that existing short video fake news detection methods suffer from distribution shift across different events, particularly when dealing with videos from emergencies, where their performance significantly degrades. To address this, they propose a new framework centered around test-time training (TTT) to improve the model's adaptability to newly distributed data during testing. Specifically, they design a self-supervised auxiliary task: based on Mask Language Modeling (MLM), it randomly masks certain words in the text and then requires the model to predict these masked words by combining modal information beyond text (audio and video). During testing, the model performs this auxiliary task in addition to the primary task (fake news classification), enabling adaptive adjustments based on the test data.
+40. **[ICMR-2025] Multi-modal Similarity Guided Adaptive Fusion Network for Short Video Fake News Detection**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
+    *Jing Shen, Yanjia Wang, Shengze Wang, Yuping Zhang, Haibo Liu*. [[pdf](https://dl.acm.org/doi/10.1145/3731715.3733400)]
+    - This paper proposes a Multi-modal Similarity Guided Adaptive Fusion Network. Its core approach is to design a weighting strategy for fusing information from different modalities (e.g., images/videos, text, audio, etc.). This strategy dynamically adjusts the fusion weights based on the consistency/similarity between the modalities. Specifically, if the consistency between certain modalities is high (e.g., the consistency between text and video content), the features of these modalities are given higher weight in the fusion; conversely, modalities with lower consistency are given lower weights.
+41. **[ACL-2025] IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
+    *Zhi Zeng, Jiaying Wu, Minnan Luo, Herun Wan, Xiangzheng Kong, Zihan Ma, Guang Dai, Qinghua Zheng*. [[pdf](https://aclanthology.org/2025.acl-long.1494/)]
+    - This paper proposes the IMOL framework to address the problem of incomplete modalities in multi-domain fake news video detection. The approach consists of three parts: first, a cross-modal consistency reconstruction mechanism leverages information from other modalities to generate features for the missing modality when one modality is missing; second, cross-sample associative reasoning leverages the associations between different samples to enhance knowledge transfer and generalization capabilities; and finally, a hierarchical transferable information integration strategy is designed, combining reconstruction with cross-sample reasoning to enhance the model's robustness in modality-missing and cross-domain scenarios. The authors also construct a new multi-domain fake news video benchmark and experimentally validate the effectiveness of their approach.
+42. **[AAAI-2025] Text-Guided Fine-grained Counterfactual Inference for Short Video Fake News Detection**. ![](https://img.shields.io/badge/pipeline-D8D0E1)
+    *Linlin Zong, Wenmin Lin, Jiahui Zhou, Xinyue Liu, Xianchao Zhang, Bo Xu, Shimin Wu*. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/32112)]
+    - This paper proposes a text-guided fine-grained counterfactual reasoning method. By leveraging text information to locate key attributes and generate counterfactual samples, the model can simultaneously learn the original task and the counterfactual distinction task during training, thereby enhancing its sensitivity to detailed differences and potential misleading, and performing more robustly in detection tasks.
 ### Related Areas
 
 This section contains the pilot works that discuss areas related to misinformation video detection.
@@ -397,6 +426,20 @@ This section contains the pilot works that discuss areas related to misinformati
 5. **[ICPR-2022] VidHarm: A Clip Based Dataset for Harmful Content Detection**. ![](https://img.shields.io/badge/harmful_content_detection-EAD8D9)
 
    *Johan Edstedt, Amanda Berg, Michael Felsberg, Johan Karlsson, Francisca Benavente, Anette Novak, Gustav Grund Pihlgren*. [[pdf](https://arxiv.org/pdf/2106.08323.pdf)]
+6. **[AAAI-2024] Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection.**. ![](https://img.shields.io/badge/deception_detection-EAD8D9)
+   *Zhongjie Ba, Qingyu Liu, Zhenguang Liu, Shuang Wu, Feng Lin, Li Lu, Kui Ren* [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/27829)]
+7. **[ACL-2025]Hidden in Plain Sight: Evaluation of the Deception Detection Capabilities of LLMs in Multimodal Settings.** ![](https://img.shields.io/badge/deception_detection-EAD8D9)
+   *Md Messal Monem Miah, Adrita Anika, Xi Shi, Ruihong Huang* [[pdf](https://aclanthology.org/2025.acl-long.1497/)]
+8. **[AAAI-2025]AFFAKT: A Hierarchical Optimal Transport Based Method for Affective Facial Knowledge Transfer in Video Deception Detection.**
+   *Zihan Ji, Xuetao Tian, Ye Liu*  [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/32123)]
+9. **[EMNLP(Findings)-2023]Multiview Clickbait Detection via Jointly Modeling Subjective and Objective Preference.** ![](https://img.shields.io/badge/clickbait_detection-EAD8D9)
+    *Chongyang Shi, Yijun Yin, Qi Zhang, Liang Xiao, Usman Naseem, Shoujin Wang, Liang Hu*  [[pdf](https://aclanthology.org/2023.findings-emnlp.790/)]
+10. **[EMNLP(Findings)-2023]A Novel Contrastive Learning Method for Clickbait Detection on RoCliCo: A Romanian Clickbait Corpus of News Articles.**  ![](https://img.shields.io/badge/clickbait_detection-EAD8D9)
+    *Daria-Mihaela Broscoteanu, Radu Tudor Ionescu* [[pdf](https://aclanthology.org/2023.findings-emnlp.640/)]
+11. **[EMNLP-2024]Multimodal Clickbait Detection by De-confounding Biases Using Causal Representation Inference.**  ![](https://img.shields.io/badge/clickbait_detection-EAD8D9)
+    *Jianxing Yu, Shiqi Wang, Han Yin, Zhenlong Sun, Ruobing Xie, Bo Zhang, Yanghui Rao* [[pdf](https://aclanthology.org/2024.emnlp-main.575/)]
+12. **[NAACL-2025]Fine-Grained Transfer Learning for Harmful Content Detection through Label-Specific Soft Prompt Tuning.**
+    *Faeze Ghorbanpour, Viktor Hangya, Alexander Fraser* [[pdf](https://aclanthology.org/2025.naacl-long.551/)]
 ### Future Directions
 
 This section contains the pilot works that related to critical open issues and future directions for misinformation video detection.
@@ -442,6 +485,12 @@ This section contains the pilot works that related to critical open issues and f
 12. **[AAAI-2020] Weak Supervision for Fake News Detection via Reinforcement Learning**. ![](https://img.shields.io/badge/recommendation-EAD8D9)
 
       *Yaqing Wang, Weifeng Yang, Fenglong Ma, Jin Xu, Bin Zhong, Qiang Deng, Jing Gao*.  [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/5389/5245)]
+13. **[ArXiv-2025]Multimodal Fake News Video Explanation: Dataset, Analysis and Evaluation**. ![](https://img.shields.io/badge/explainability-EAD8D9)
+    *Lizhi Chen, Zhong Qian, Peifeng Li, Qiaoming Zhu*. [[pdf](https://arxiv.org/pdf/2501.08514)]
+14. **[ArXiv-2025]FMNV: A Dataset of Media-Published News Videos for Fake News Detection** ![](https://img.shields.io/badge/highimpact-EAD8D9)
+    *Yihao Wang, Zhong Qian, Peifeng Li* [[pdf](https://arxiv.org/pdf/2504.07687)]
+15. **[IP&M-2025]Exploring news intent and its application: A theory-driven approach** ![](https://img.shields.io/badge/intent-EAD8D9)
+    *Zhengjia Wang, Danding Wang, Qiang Sheng, Juan Cao, Siyuan Ma, Haonan Cheng* [[pdf](https://arxiv.org/pdf/2312.16490)]
 
 ## Resources
 
@@ -461,6 +510,8 @@ This section contains the pilot works that related to critical open issues and f
 |**Official-NV**|[Official-NV: An LLM-Generated News Video Dataset for Multimodal Fake News Detection](https://arxiv.org/pdf/2407.19493)||Xinhua News|English|
 |**FakeSV**|[FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms](https://arxiv.org/pdf/2211.10973.pdf)|[link](https://github.com/ICTMCG/FakeSV)|Douyin,Kuaishou|Chinese|
 |**FakeTT**|[FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process](https://www.arxiv.org/abs/2407.16670)|[link](https://github.com/ICTMCG/FakingRecipe)|TikTok|English|
+|**FMNV**|[FMNV: A Dataset of Media-Published News Videos for Fake News Detection](https://arxiv.org/pdf/2504.0768)|[link](https://github.com/DennisIW/FMNV)|YouTube,Twitter,AIGC|English|
+|**FNVE**|[Multimodal Fake News Video Explanation: Dataset, Analysis and Evaluation](https://arxiv.org/pdf/2501.08514)||Based on FMNV && FakeTT|English|
 <!-- 1. **FVC** [[paper](https://drive.google.com/file/d/1OfGx0aBHeVK3TmAOP7Wi6APZZlgocmkG/view)] [[dataset](https://mklab.iti.gr/results/fake-video-corpus/)] 
 2. **YouTubeAudit** [[paper](https://www.researchgate.net/profile/Eslam-Hussein-12/publication/340681643_Measuring_Misinformation_in_Video_Search_Platforms_An_Audit_Study_on_YouTube/links/5e98be72a6fdcca7891ff9b5/Measuring-Misinformation-in-Video-Search-Platforms-An-Audit-Study-on-YouTube.pdf)] [[dataset](https://social-comp.github.io/YouTubeAudit-data/)]
 3. **FakeSV** [[paper](https://arxiv.org/pdf/2211.10973.pdf)] [[dataset](https://github.com/ICTMCG/FakeSV)]
